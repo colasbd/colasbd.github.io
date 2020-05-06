@@ -9,4 +9,4 @@ Je suis professeur de mathématiques et d'informatique au [lycée Sainte-Genevi�
 
 
 # Développeur et UX designer
-Je suis également développeur. J'ai réalité plusieurs applications au sein de [Improov](http://www.improov.fr) destinée aux étudiants en mathématiques. J'ai travaillé au sein du [Laptop](http://lelaptop.com) pendant deux années durant lesquelles je me suis formé à l'[UX design](https://www.youtube.com/watch?v=SRec90j6lTY). J'utilise désormais ces principes de conception dans toutes mes activités. 
+Je suis également développeur. Je suis entre autres le créateur de l'app pour tablettes et smartphones[Improov](http://www.improov.fr). J'ai travaillé au sein du [Laptop](http://lelaptop.com) pendant deux années durant lesquelles je me suis formé à l'[UX design](https://www.youtube.com/watch?v=SRec90j6lTY). J'utilise désormais ces principes de conception dans toutes mes activités. 
