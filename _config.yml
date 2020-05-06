@@ -1,3 +1,8 @@
-#Build settings
+# Site settings
+title: Page de Colas Bardavid
+description: Page de Colas Bardavid
+author: Colas Bardavid
+
+# Build settings
 remote-theme: mmistakes/minimal-mistakes
 #theme: jekyll-theme-cayman
