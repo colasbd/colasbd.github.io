@@ -1,1 +1,3 @@
-theme: jekyll-theme-cayman
+#Build settings
+remote-theme: mmistakes/minimal-mistakes
+#theme: jekyll-theme-cayman
