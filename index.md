@@ -1,5 +1,6 @@
 ---
 title: Page de Colas Bardavid
+layout: "page"
 ---
 
 
