@@ -3,5 +3,9 @@ title: Page de Colas Bardavid
 author: Colas Bardavid
 
 # Build settings
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
 remote-theme: mmistakes/minimal-mistakes
-#theme: jekyll-theme-cayman
+#theme: minimal-mistakes-jekyll
