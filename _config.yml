@@ -32,7 +32,6 @@ github_username:  jekyll
 # Build settings
 #remote-theme: mmistakes/minimal-mistakes
 theme: minimal-mistakes-jekyll
-remote-theme: mmistakes/minimal-mistakes
 #theme: minima
 plugins:
   - jekyll-feed
