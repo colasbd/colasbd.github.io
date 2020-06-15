@@ -13,16 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+locale: "fr-FR"
+url: "https://colasbd.github.io"
+
 title: Page de Colas Bardavid
+masthead_title: " "
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: __colas
+  Page de Colas Bardavid. Documents mathématiques pour étudiants en classes préparatoires MPSI, MPII,
+  PCSI, PTSI, CAPES, agrégation, etc.
+#twitter_username: __colas
 github_username: colasbd
 minimal_mistakes_skin: air #neon #mint #contrast #default
-search: true
+search: false #true
 
 # Build settings
 markdown: kramdown
@@ -31,7 +35,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Paris" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -58,34 +62,33 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Colas Bardavid"
-  avatar : "/assets/images/photoColas.jpg"
-  bio    : "Professeur de mathématiques et d'informatique en classes préparatoires"
+  name      : "Colas Bardavid"
+  avatar    : "/assets/images/photoColas.jpg"
+  bio       : "Professeur de mathématiques et d'informatique en classes préparatoires"
   links:
-    - label: "Website"
+    - label: "Improov"
       icon: "fas fa-fw fa-link"
       url: "https://www.improov.fr"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/__colas"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/__colas"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/colasbd"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Improov"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.improov.fr"
+
 
 defaults:
   # _posts
@@ -106,6 +109,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
 
 category_archive:
   type: liquid
