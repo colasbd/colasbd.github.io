@@ -1,6 +1,6 @@
 ---
 title: Page de Colas Bardavid
-layout: "home"
+layout: "my_home"
 ---
 
 
