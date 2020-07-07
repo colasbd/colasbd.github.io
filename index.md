@@ -9,7 +9,7 @@ header:
 
 author_profile: true
 
-title: "Documents mathématiques"
+title: "Page professionnelle de Colas Bardavid"
 
 excerpt: "Documents mathématiques"
 ---
