@@ -1,33 +1,31 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: accueil
-author_profile: true
+layout: myBasicLayout
 
-title: " "
-
-excerpt: "Documents mathématiques"
 header:
   show_overlay_excerpt: false
   overlay_image: /assets/images/milky-way.jpg
   #caption: "" #Voie lactée"
   #overlay_filter: rgba(1, 17, 47, 0.2)
 
+author_profile: true
+
+title: "Documents mathématiques"
+
+excerpt: "Documents mathématiques"
 ---
 <!--# Page professionnelle de Colas Bardavid-->
 Vous trouverez sur cette page des documents mathématiques qui pourront être utiles aux étudiants et aux personnes qui préparent les concours de l'enseignement.
 
 
-- Documents de cette année
-- Documents des années précédentes
-- Publications
+## Documents pédagogiques
+- [Documents 2019/2020]({{ site.baseurl }}{% link _pages/2019-2020.md %})
+- [Documents 2018/2019]({{ site.baseurl }}{% link _pages/2018-2019.md %})
+- [Anciens documents]({{ site.baseurl }}{% link _pages/anciens-documents.md %})
 
-Binjou
+## Recherches
+En thèse, j'ai réinterprété certains résultats de théorie de Galois différentielle en utilisant la théorie des schémas de Grothendieck et j'ai montré que la formulation fonctorielle de la géométrie algébrique à la [Toën-Vaquié](https://perso.math.univ-toulouse.fr/btoen/files/2012/04/souz.pdf) revenait à munir les schémas de champs de vecteurs.
 
-## Bienvenue sur ce site
+En plus de ces thèmes, je m'intéresse à la théorie des types, à l'algèbre commutative, etc.
 
-test
-
-# Ceci est un test
+- [Publications]({{ site.baseurl }}{% link _pages/publications.md %})
 

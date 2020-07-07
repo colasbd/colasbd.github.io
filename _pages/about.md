@@ -1,8 +1,33 @@
 ---
+layout: myBasicLayout
+
+header:
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/milky-way.jpg
+  #caption: "" #Voie lactée"
+  #overlay_filter: rgba(1, 17, 47, 0.2)
+
+author_profile: false
 permalink: /about/
-title: "About"
+title: "À propos"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Je m'appelle Colas Bardavid.  
+Vous pouvez m'écrire à colas (point) bardavid (at) gmail.com
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+
+# Mathématiques
+- Ancien élève de l'École normale supérieure (Ulm)
+- Docteur en mathématiques 
+- Professeur agrégé
+- Je suis professeur de mathématiques et d'informatique au [lycée Sainte-Geneviève](https://www.bginette.com) en classe de PCSI.
+
+# Informatique
+- Je suis le créateur de l'application pour tablettes et smartphones [Improov](http://www.improov.fr). 
+- J'ai travaillé au sein du [Laptop](http://lelaptop.com) pendant deux années durant lesquelles je me suis formé à l'[UX design](https://www.youtube.com/watch?v=SRec90j6lTY). J'utilise désormais ces principes de conception dans toutes mes activités. 
+
+# Philosophie
+- Je suis titulaire d'une licence de philosophie de la Sorbonne.
+
+
+
