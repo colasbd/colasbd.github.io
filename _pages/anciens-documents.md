@@ -9,7 +9,7 @@ header:
   #overlay_filter: rgba(1, 17, 47, 0.2)
   #overlay_color: "#907ab3"
 
-author_profile: false
+author_profile: no
 permalink: /anciens-documents/
 title: "Anciens documents pédagogiques"
 ---

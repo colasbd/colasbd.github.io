@@ -8,7 +8,7 @@ header:
   #caption: "" #Voie lactée"
   #overlay_filter: rgba(1, 17, 47, 0.2)
 
-author_profile: false
+author_profile: no
 permalink: /publications/
 title: "Articles"
 ---
