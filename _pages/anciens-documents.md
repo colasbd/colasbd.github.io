@@ -30,12 +30,11 @@ title: "Anciens documents pédagogiques"
 - [Notions de base en théorie de Galois différentielles](theoGaloisDiff.pdf)
 
 
-
-
 ## Théorie des schémas
 - [Une section globale d'un schéma nulle en tout point mais qui n'est pas nilpotente](fonctionNullePasNilpotente.pdf)
 - [Idéaux premiers et maximaux de l'anneau des fonctions lisses](ideauxInfContDeR.pdf)
 - [Normalisation d'un schéma](normalisationSchema.pdf)
+
 
 ## Autres documents
 - [Lemme de Yoneda et yoga des foncteurs](yoneda.pdf)
