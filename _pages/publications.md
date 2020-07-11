@@ -20,7 +20,7 @@ title: "Articles"
 
 1. avec Éric Pité, [Défaut(s) de signature](signature_S_N.pdf)
 
-1. avec Éric Pité, [Anneaux eidéniens](Anneaux_eideniens)
+1. avec Éric Pité, [Anneaux eidéniens](Anneaux_eideniens.pdf)
 
 
 ## Articles publiés
