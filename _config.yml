@@ -77,7 +77,7 @@ author:
     #   url: "https://twitter.com/__colas"
     - label: "Improov"
       icon: "fas fa-fw fa-link"
-      url: "https://www.improov.fr"
+      url: "http://www.improov.fr"
 
 
 footer:
@@ -93,7 +93,7 @@ footer:
     #   url: "https://twitter.com/__colas"
     - label: "Improov"
       icon: "fas fa-fw fa-link"
-      url: "https://www.improov.fr"
+      url: "http://www.improov.fr"
 
 
 defaults:
