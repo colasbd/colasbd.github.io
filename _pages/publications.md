@@ -3,7 +3,8 @@ layout: myBasicLayout
 
 header:
   show_overlay_excerpt: false
-  overlay_image: /assets/images/milky-way.jpg
+  overlay_image: /assets/images/backgrounds/header_6.jpg
+  #overlay_image: /assets/images/backgrounds/milky-way.jpg
   #caption: "" #Voie lactée"
   #overlay_filter: rgba(1, 17, 47, 0.2)
 
@@ -13,8 +14,15 @@ title: "Articles"
 ---
 
 
-## Articles publiés
+## Articles soumis
 
+1. avec Éric Pité, [Structure des anneaux finis](structure_des_anneaux_finis.pdf)
+
+1. avec Éric Pité, [Défaut(s) de signature](signature_S_N.pdf)
+
+1. avec Éric Pité, [Anneaux eidéniens](Anneaux_eideniens)
+
+## Articles publiés
 
 
 1. *An effective description of $$k[[X]]\otimes_{k} k[[Y]]$$.*  
