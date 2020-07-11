@@ -43,7 +43,7 @@ cas abstrait, cas topologique*.
 Advances in Algebra (AA) 1, No. 1, 37-45 (2008)
 
 
-## Autres Articles
+## Autres articles
 
 1. [*A sufficient condition for the fiber of the tangent bundle of a scheme and its Zariski tangent space to be isomorphic*](https://arxiv.org/pdf/1103.4278)
 
