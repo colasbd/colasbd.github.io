@@ -50,3 +50,10 @@ Advances in Algebra (AA) 1, No. 1, 37-45 (2008)
 1. [*Catégories de Yoneda*](categoriesDeYoneda.pdf)
 
 1. [*Recollement d'objets universels*](recollementUniversel.pdf)
+
+
+## Mémoires
+
+1. [Ma thèse](TheseColasBardavid_v2_elec.pdf), effectuée sous la direction de [Felix Ulmer](http://felixulmer.epizy.com//)
+
+2. [Mon mémoire de DEA](DEA.pdf), effectué sous la direction d'[Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml)

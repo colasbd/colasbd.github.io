@@ -26,7 +26,6 @@ Vous trouverez sur cette page des documents mathématiques qui pourront être ut
 
 ## Recherches
 En thèse, j'ai réinterprété certains résultats de théorie de Galois différentielle en utilisant la théorie des schémas de Grothendieck et j'ai montré que la formulation fonctorielle de la géométrie algébrique à la [Toën-Vaquié](https://perso.math.univ-toulouse.fr/btoen/files/2012/04/souz.pdf), dans ce cas, revenait à munir les schémas de champs de vecteurs.
-
 En plus de ces thèmes, je m'intéresse à la théorie des types, à l'algèbre commutative, etc.
 
 - [Publications]({{ site.baseurl }}{% link _pages/publications.md %})
