@@ -11,12 +11,12 @@ header:
 
 author_profile: true
 
-title: "Page professionnelle de Colas Bardavid"
+#title: "Page professionnelle de Colas Bardavid"
 
 excerpt: "Documents mathématiques"
 ---
 <!--# Page professionnelle de Colas Bardavid-->
-Vous trouverez sur cette page des documents mathématiques qui pourront être utiles aux étudiants et aux personnes qui préparent les concours de l'enseignement.
+Vous trouverez sur cette page des documents mathématiques qui pourront être utiles aux étudiants, aux enseignants et aux personnes qui préparent les concours de l'enseignement.
 
 
 ## Documents pédagogiques
