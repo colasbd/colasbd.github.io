@@ -65,6 +65,8 @@ author:
   name      : "Colas Bardavid"
   avatar    : "/assets/images/photoColas.jpg"
   bio       : "Professeur de mathématiques et d'informatique en classes préparatoires"
+  biobis    : "[Lycée Sainte-Geneviève](https://www.bginette.com)"
+
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
