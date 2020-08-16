@@ -16,14 +16,19 @@ title: "Articles"
 
 ## Articles soumis
 
-1. avec Éric Pité, [Structure des anneaux finis](structure_des_anneaux_finis.pdf)
+<!-- 1. avec Éric Pité, [Structure des anneaux finis](structure_des_anneaux_finis.pdf) -->
 
-1. avec Éric Pité, [Défaut(s) de signature](signature_S_N.pdf)
+1. avec Éric Pité, [Défaut(s) de signature](signature_S_N.pdf).
 
-1. avec Éric Pité, [Anneaux eidéniens](Anneaux_eideniens.pdf)
+1. avec Éric Pité, [Anneaux eidéniens](Anneaux_eideniens.pdf).
+
+1. avec Éric Pité, [Un raffinement du théorème de Gauss-Lucas](RMS_Q720_v4.pdf).
 
 
 ## Articles publiés
+
+1. avec Éric Pité, [*Structure des anneaux commutatifs finis.*](structure_des_anneaux_finis.pdf)
+RMS 130-4, 43-56 (2020). 
 
 1. *An effective description of $$k[[X]]\otimes_{k} k[[Y]]$$.*  
 Int. J. Algebra Journal 5, No. 17-20, 873-882 (2011).
