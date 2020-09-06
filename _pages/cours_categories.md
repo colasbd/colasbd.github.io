@@ -17,5 +17,5 @@ title: "Cours sur les catégories"
 *Ce cours est accessible à partir d'un niveau L2-L3.*
 
 1. Catégories : définitions et exemples
-- [Fichier PDF](1_categories_definition_exemples.pdf)
+- [Fichier .pdf](1_categories_definition_exemples.pdf)
 - [Vidéo](https://youtu.be/BqPdpzYh3uI)

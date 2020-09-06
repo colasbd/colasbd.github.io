@@ -16,7 +16,7 @@ title: "Articles"
 
 ## Articles soumis
 
-<!-- 1. avec Éric Pité, [Structure des anneaux finis](structure_des_anneaux_finis.pdf) -->
+1. [Vector fields and differential schemes](Schemes_and_vector_fields.pdf).
 
 1. avec Éric Pité, [Défaut(s) de signature](signature_S_N.pdf).
 
@@ -42,7 +42,7 @@ Banach Center Publications 94, 9-42 (2011).
 
 1. *Complété profini d’un groupe et groupes profinis :
 cas abstrait, cas topologique*.  
-[RMS 120-1](https://www.rms-math.com/index.php?option=com_staticxt&Itemid=126), octobre 2009.
+[RMS 120-1](https://www.rms-math.com/index.php?option=com_staticxt&Itemid=126), 53-66 (2009).
 
 1. [*Profinite completion and double-dual: isomorphisms and counter-examples*](https://arxiv.org/pdf/0801.2955)  
 Advances in Algebra (AA) 1, No. 1, 37-45 (2008)
