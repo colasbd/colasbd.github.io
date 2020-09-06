@@ -13,7 +13,7 @@ author_profile: true
 
 title: "Page professionnelle de Colas Bardavid"
 
-excerpt: "Documents mathématiques"
+excerpt: "Matériel mathématiques"
 ---
 <!--# Page professionnelle de Colas Bardavid-->
 Vous trouverez sur cette page des documents mathématiques qui pourront être utiles aux étudiants, aux enseignants et aux personnes qui préparent les concours de l'enseignement.
@@ -23,6 +23,7 @@ Vous trouverez sur cette page des documents mathématiques qui pourront être ut
 - [Documents 2019/2020]({{ site.baseurl }}{% link _pages/2019-2020.md %})
 - [Documents 2018/2019]({{ site.baseurl }}{% link _pages/2018-2019.md %})
 - [Anciens documents]({{ site.baseurl }}{% link _pages/anciens-documents.md %})
+- [Cours sur les catégories]({{ site.baseurl }}{% link _pages/cours_categories.md %})
 
 ## Recherches
 En thèse, j'ai réinterprété certains résultats de théorie de Galois différentielle en utilisant la théorie des schémas de Grothendieck et j'ai montré que la formulation fonctorielle de la géométrie algébrique à la [Toën-Vaquié](https://perso.math.univ-toulouse.fr/btoen/files/2012/04/souz.pdf), dans ce cas, revenait à munir les schémas de champs de vecteurs.
