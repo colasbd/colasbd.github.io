@@ -23,3 +23,8 @@ et [vidéo](https://youtu.be/BqPdpzYh3uI))
 1. Autres exemples ; définition des foncteurs  
 ([fichier .pdf](2_autres_exemples_et_foncteurs.pdf)
 et [vidéo](https://youtu.be/OxdiWXWGtWc))
+
+1. Exemples de foncteurs ; topologie algébrique  
+([fichier .pdf](3_exemples_de_foncteurs_topologie_algebrique.pdf)
+et [vidéo](https://youtu.be/kdDqW3oQ9ng))
+
