@@ -28,3 +28,7 @@ et [vidéo](https://youtu.be/OxdiWXWGtWc))
 ([fichier .pdf](3_exemples_de_foncteurs_topologie_algebrique.pdf)
 et [vidéo](https://youtu.be/kdDqW3oQ9ng))
 
+1. Un exemple de catégorie relatives : les S-espaces  
+([fichier .pdf](4_un_exemple_de_categorie_relative_les_S_espaces.pdf)
+et [vidéo](https://youtu.be/7Ru1as-yv6E))
+
