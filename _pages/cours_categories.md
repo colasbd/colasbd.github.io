@@ -32,3 +32,6 @@ et [vidéo](https://youtu.be/kdDqW3oQ9ng))
 ([fichier .pdf](4_un_exemple_de_categorie_relative_les_S_espaces.pdf)
 et [vidéo](https://youtu.be/7Ru1as-yv6E))
 
+1. Recollements de fibres. Produits : définition et premiers exemples  
+([fichier .pdf](5_recollement_de_fibres_Produits.pdf)
+et [vidéo](https://youtu.be/UPRkEEXCczg))
