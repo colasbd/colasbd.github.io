@@ -25,6 +25,11 @@ title: "Articles"
 1. avec Éric Pité, [Un raffinement du théorème de Gauss-Lucas](RMS_Q720_v4.pdf).
 
 
+## Articles acceptés pour publication
+
+1. [Deux critères pour être de mesure nulle](deux_criteres_pour_etre_de_mesure_nulle_v4.pdf)
+
+
 ## Articles publiés
 
 1. avec Éric Pité, [*Structure des anneaux commutatifs finis.*](structure_des_anneaux_finis.pdf)  
