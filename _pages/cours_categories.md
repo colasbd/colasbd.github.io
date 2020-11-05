@@ -35,3 +35,8 @@ et [vidéo](https://youtu.be/7Ru1as-yv6E))
 1. Recollements de fibres. Produits : définition et premiers exemples  
 ([fichier .pdf](5_recollement_de_fibres_Produits.pdf)
 et [vidéo](https://youtu.be/UPRkEEXCczg))
+
+1. Produits dans la catégorie des corps. Généralités  
+([fichier .pdf](6_produits_dans_la_categorie_des_corps_et_generalites.pdf)
+et [vidéo](https://youtu.be/irHwB-pknVE))
+
