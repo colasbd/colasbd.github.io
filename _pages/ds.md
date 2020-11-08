@@ -10,7 +10,7 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
-permalink: /ds-et-dm/
+permalink: /ds/
 title: "Devoirs surveillés"
 ---
 
