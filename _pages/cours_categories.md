@@ -10,7 +10,7 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
-permalink: /cours_categories/
+permalink: /cours-categories/
 title: "Cours sur les catégories"
 ---
 

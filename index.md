@@ -20,15 +20,22 @@ Vous trouverez sur cette page des documents mathématiques qui pourront être ut
 
 
 ## Documents pédagogiques
-- [Documents 2020/2021]({{ site.baseurl }}{% link _pages/2020-2021.md %})
-- [Documents 2019/2020]({{ site.baseurl }}{% link _pages/2019-2020.md %})
-- [Documents 2018/2019]({{ site.baseurl }}{% link _pages/2018-2019.md %})
-- [Cours sur les catégories]({{ site.baseurl }}{% link _pages/cours_categories.md %})
+- [DS]({{ site.baseurl }}{% link _pages/ds.md %})
+- [DM]({{ site.baseurl }}{% link _pages/dm.md %})
+- [Documents de cours]({{ site.baseurl }}{% link _pages/documents-de-cours.md %})
+- [Autres documents]({{ site.baseurl }}{% link _pages/autres-documents.md %})
 - [Anciens documents]({{ site.baseurl }}{% link _pages/anciens-documents.md %})
 
+
+## Cours sur les catégories
+J'ai commencé en septembre 2020 un cours sur la théorie de catégories dont le but est l'interprétation topossique des méthodes de forcing de Cohen.
+- [Cours sur les catégories]({{ site.baseurl }}{% link _pages/cours_categories.md %})
+
+
 ## Recherches
-En thèse, j'ai réinterprété certains résultats de théorie de Galois différentielle en utilisant la théorie des schémas de Grothendieck et j'ai montré que la formulation fonctorielle de la géométrie algébrique à la [Toën-Vaquié](https://perso.math.univ-toulouse.fr/btoen/files/2012/04/souz.pdf), dans ce cas, revenait à munir les schémas de champs de vecteurs.
-En plus de ces thèmes, je m'intéresse à la théorie des types, à l'algèbre commutative, etc.
+Ma thèse portait sur des questions de géométrie algébrique, de théorie de Galois différentielle et de théorie des catégories.  
+En plus de ces sujets, je m'intéresse à la théorie des types.  
+Je collabore régulièrement à la RMS.  
 
 - [Publications]({{ site.baseurl }}{% link _pages/publications.md %})
 

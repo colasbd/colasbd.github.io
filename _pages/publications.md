@@ -22,12 +22,14 @@ title: "Articles"
 
 1. avec Éric Pité, [Anneaux eidéniens](Anneaux_eideniens.pdf).
 
-1. avec Éric Pité, [Un raffinement du théorème de Gauss-Lucas](RMS_Q720_v4.pdf).
+
 
 
 ## Articles acceptés pour publication
 
-1. [Deux critères pour être de mesure nulle](deux_criteres_pour_etre_de_mesure_nulle_v4.pdf)
+1. [Deux critères pour être de mesure nulle](deux_criteres_pour_etre_de_mesure_nulle_v4.pdf), à paraître dans la RMS.
+
+1. avec Éric Pité, [Un raffinement du théorème de Gauss-Lucas](RMS_Q720_v4.pdf), à paraître dans la RMS.
 
 
 ## Articles publiés
@@ -50,7 +52,7 @@ cas abstrait, cas topologique*.
 [RMS 120-1](https://www.rms-math.com/index.php?option=com_staticxt&Itemid=126), 53-66 (2009).
 
 1. [*Profinite completion and double-dual: isomorphisms and counter-examples*](https://arxiv.org/pdf/0801.2955)  
-Advances in Algebra (AA) 1, No. 1, 37-45 (2008)
+Advances in Algebra (AA) 1, No. 1, 37-45 (2008).
 
 
 ## Autres articles
@@ -64,6 +66,7 @@ Advances in Algebra (AA) 1, No. 1, 37-45 (2008)
 
 ## Mémoires
 
-1. [Ma thèse](TheseColasBardavid_v2_elec.pdf), effectuée sous la direction de [Felix Ulmer](http://felixulmer.epizy.com//)
+1. [Ma thèse](TheseColasBardavid_v2_elec.pdf), effectuée sous la direction de [Felix Ulmer](http://felixulmer.epizy.com//)  
+
 
 2. [Mon mémoire de DEA](DEA.pdf), effectué sous la direction d'[Antoine Chambert-Loir](https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml)
