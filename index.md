@@ -20,15 +20,15 @@ Vous trouverez sur cette page des documents mathématiques qui pourront être ut
 
 
 ## Documents pédagogiques
-- [DS]({{ site.baseurl }}{% link _pages/ds.md %})
-- [DM]({{ site.baseurl }}{% link _pages/dm.md %})
+- [Devoirs surveillés]({{ site.baseurl }}{% link _pages/ds.md %})
+- [Devoirs à la maison]({{ site.baseurl }}{% link _pages/dm.md %})
 - [Documents de cours]({{ site.baseurl }}{% link _pages/documents-de-cours.md %})
 - [Autres documents]({{ site.baseurl }}{% link _pages/autres-documents.md %})
 - [Anciens documents]({{ site.baseurl }}{% link _pages/anciens-documents.md %})
 
 
 ## Cours sur les catégories
-J'ai commencé en septembre 2020 un cours sur la théorie de catégories dont le but est l'interprétation topossique des méthodes de forcing de Cohen.
+J'ai commencé à donner en septembre 2020 un cours sur la théorie de catégories dont le but est l'interprétation topossique des méthodes de forcing de Cohen.
 - [Cours sur les catégories]({{ site.baseurl }}{% link _pages/cours_categories.md %})
 
 
