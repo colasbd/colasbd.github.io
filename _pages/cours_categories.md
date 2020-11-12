@@ -40,3 +40,7 @@ et [vidéo](https://youtu.be/UPRkEEXCczg))
 ([fichier .pdf](6_produits_dans_la_categorie_des_corps_et_generalites.pdf)
 et [vidéo](https://youtu.be/irHwB-pknVE))
 
+1. Objets initiaux, objets finaux. Coproduits. Produits tensoriels d'anneaux.  
+([fichier .pdf](6_produits_dans_la_categorie_des_corps_et_generalites.pdf)
+et [vidéo](https://youtu.be/no9y2DzCRvQ))
+
