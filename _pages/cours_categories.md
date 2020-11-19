@@ -44,3 +44,7 @@ et [vidéo](https://youtu.be/irHwB-pknVE))
 ([fichier .pdf](6_produits_dans_la_categorie_des_corps_et_generalites.pdf)
 et [vidéo](https://youtu.be/no9y2DzCRvQ))
 
+1. k-algèbres. Produit libre de deux groupes  
+([fichier .pdf](8_k_algebres_Produit_libre_de_deux_groupes.pdf)
+et [vidéo](https://youtu.be/_M6IW8OryK8))
+
