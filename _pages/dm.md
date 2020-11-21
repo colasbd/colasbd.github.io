@@ -31,6 +31,7 @@ title: "Devoirs à la maison"
 - [Autour des fonctions lipschitziennes](DM11_2019_2020_fonctions_lipschitziennes.pdf)
 
 ### 2018/2019
+- [Construction du corps des nombres complexes](DM_construction_de_C.pdf)
 - [Récurrences](DM2_2018_19_recurrence.pdf)
 - [Fonctions périodiques](DM4_2018_2019_fonctions_periodiques.pdf)
 - [Étude qualitative d'une équation différentielle non linéaire](DM14_2018_2019_etude_qualitative_ED_non_lineaire.pdf)
