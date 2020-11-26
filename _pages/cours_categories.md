@@ -16,27 +16,27 @@ title: "Cours sur les catégories"
 
 *Ce cours est accessible à partir d'un niveau L2-L3.*
 
-1. Catégories : définitions et exemples  
+1. Catégories : définitions et exemples.  
 ([fichier .pdf](1_categories_definition_exemples.pdf)
 et [vidéo](https://youtu.be/BqPdpzYh3uI))
 
-1. Autres exemples ; définition des foncteurs  
+1. Autres exemples ; définition des foncteurs.  
 ([fichier .pdf](2_autres_exemples_et_foncteurs.pdf)
 et [vidéo](https://youtu.be/OxdiWXWGtWc))
 
-1. Exemples de foncteurs ; topologie algébrique  
+1. Exemples de foncteurs ; topologie algébrique.  
 ([fichier .pdf](3_exemples_de_foncteurs_topologie_algebrique.pdf)
 et [vidéo](https://youtu.be/kdDqW3oQ9ng))
 
-1. Un exemple de catégorie relative : les S-espaces  
+1. Un exemple de catégorie relative : les S-espaces.  
 ([fichier .pdf](4_un_exemple_de_categorie_relative_les_S_espaces.pdf)
 et [vidéo](https://youtu.be/7Ru1as-yv6E))
 
-1. Recollements de fibres. Produits : définition et premiers exemples  
+1. Recollements de fibres. Produits : définition et premiers exemples.  
 ([fichier .pdf](5_recollement_de_fibres_Produits.pdf)
 et [vidéo](https://youtu.be/UPRkEEXCczg))
 
-1. Produits dans la catégorie des corps. Généralités  
+1. Produits dans la catégorie des corps. Généralités.  
 ([fichier .pdf](6_produits_dans_la_categorie_des_corps_et_generalites.pdf)
 et [vidéo](https://youtu.be/irHwB-pknVE))
 
@@ -44,7 +44,11 @@ et [vidéo](https://youtu.be/irHwB-pknVE))
 ([fichier .pdf](6_produits_dans_la_categorie_des_corps_et_generalites.pdf)
 et [vidéo](https://youtu.be/no9y2DzCRvQ))
 
-1. k-algèbres. Produit libre de deux groupes  
+1. k-algèbres. Produit libre de deux groupes.  
 ([fichier .pdf](8_k_algebres_Produit_libre_de_deux_groupes.pdf)
 et [vidéo](https://youtu.be/_M6IW8OryK8))
+
+1. Histoire. Revêtements. Qu'est-ce qu'un isomorphisme naturel ?  
+([fichier .pdf](9_Histoire_Revetements_Isomorphismes_naturels.pdf)
+et [vidéo](https://youtu.be/AikoBApiMTI))
 
