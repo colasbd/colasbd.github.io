@@ -25,7 +25,7 @@ title: "Devoirs à la maison"
 ### 2019/2020
 - [Approche axiomatique des inégalités réelles](DM2_2018_2019_axiomatique_inegalites.pdf)
 - [Inégalités de Cauchy-Schwarz](DM04_2019_2020_Cauchy_Schwarz.pdf)
-- [Nombres alébriques, nombres transcendants](DM06_2019_2020_nombres_transcendants.pdf)
+- [Nombres algébriques, nombres transcendants](DM06_2019_2020_nombres_transcendants.pdf)
 - [Suites sommables](DM08_2019_2020_suites_sommables.pdf)
 - [Diagrammes](DM10_2019_2020_Diagrammes.pdf)
 - [Autour des fonctions lipschitziennes](DM11_2019_2020_fonctions_lipschitziennes.pdf)

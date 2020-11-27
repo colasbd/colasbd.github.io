@@ -26,7 +26,7 @@ Vous pouvez m'écrire à colas (point) bardavid (at) gmail.com
 # Informatique
 - Je suis le créateur de l'application pour tablettes et smartphones [Improov](http://www.improov.fr). 
 - J'ai travaillé au sein du [Laptop](http://lelaptop.com) pendant deux années durant lesquelles je me suis formé à l'[UX design](https://www.youtube.com/watch?v=SRec90j6lTY). J'utilise désormais ces principes de conception dans toutes mes activités. 
-- Je suis co-créateur de [Mathopera](https://mathopera.com) et co-animateur de [Improov Maths](https://twitter.com/Improov_Maths), destinés aux étudiants et aux enseigants.
+- Je suis co-créateur de [Mathopera](https://mathopera.com) et co-animateur de [Improov Maths](https://twitter.com/Improov_Maths), destinés aux étudiants et aux enseignants.
 
 # Philosophie
 - Je suis titulaire d'une licence de philosophie de la Sorbonne.
