@@ -19,8 +19,9 @@ title: "Devoirs surveillés"
 
 ### 2020/2021
 - [Trois contrôles supplémentaires des racines](DS3_PCSI3_2020_21_CBD_sujet.pdf) et son [corrigé](DS3_PCSI3_2020_21_CBD_corrige.pdf).
-  - Ce sujet faisait suite à un DM sur des [contrôles des racines d'un polynôme par ses coefficients](DM_06_2020_21_six_controles_des_racines.pdf).
-  - Il a donné lieu également à un devoir facultatif sur l'[enveloppe convexe](DM_convexes_de_C.pdf) d'une partie de C.
+  - Ce sujet faisait suite à un DM établissant [six contrôles des racines d'un polynôme par ses coefficients](DM_06_2020_21_six_controles_des_racines.pdf).
+  - Il a donné lieu également à un devoir facultatif sur [l'enveloppe convexe](DM_convexes_de_C.pdf) d'une partie de C.
+- [TP d'infomatique évalué](TP_note_1_PCSI3_2020_21.pdf)
 
 ### 2019/2020
 - [Suites qui piétinent](DS4_PCSI_2019_20_Suites_qui_pietinent.pdf) et son [corrigé](DS4_PCSI_2019_20_Suites_qui_pietinent_CORRIGE.pdf).

@@ -14,7 +14,7 @@ permalink: /dm/
 title: "Devoirs à la maison"
 ---
 
-*Voici quelques-uns des  DM donnés à mes élèves de PCSI du [lycée Sainte-Geneviève](https://www.bginette.com).*
+*Voici quelques-uns des DM donnés à mes élèves de PCSI du [lycée Sainte-Geneviève](https://www.bginette.com).*
 
 
 ### 2020/2021
