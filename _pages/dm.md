@@ -21,6 +21,7 @@ title: "Devoirs à la maison"
 - [Premiers exercices](DM_2020_21_Exercices_generaux.pdf)
 - [Relations et inégalités](DM_relations_et_inegalites.pdf)
 - [Six contrôles des racines](DM_06_2020_21_six_controles_des_racines.pdf)
+- [Convexes de C](DM_convexes_de_C.pdf)
 
 ### 2019/2020
 - [Approche axiomatique des inégalités réelles](DM2_2018_2019_axiomatique_inegalites.pdf)
