@@ -32,14 +32,13 @@ J'ai commencé à donner en septembre 2020 un cours sur la théorie de catégori
 - [Cours sur les catégories]({{ site.baseurl }}{% link _pages/cours_categories.md %})
 
 
-## Vidéos d'exercices corrigés
-Ces vidéos ont été réalisées pendant le confinement de mars-juin 2020, à l'intention de mes élèves de PCSI du lycée Sainte-Geneviève.
-- [Vidéos d'exercices corrigés](https://www.youtube.com/playlist?list=PLXbwGLiLTeqxQ95WFm0YuBeFCa27H5xKV)
-
 ## Recherches
 Ma thèse portait sur des questions de géométrie algébrique, de théorie de Galois différentielle et de théorie des catégories.  
 En plus de ces sujets, je m'intéresse à la théorie des types.  
 Je collabore régulièrement à la *RMS*.  
-
 - [Publications]({{ site.baseurl }}{% link _pages/publications.md %})
 
+
+## Vidéos d'exercices corrigés
+Ces vidéos ont été réalisées pendant le confinement de mars-juin 2020, à l'intention de mes élèves de PCSI du lycée Sainte-Geneviève.
+- [Vidéos d'exercices corrigés](https://www.youtube.com/playlist?list=PLXbwGLiLTeqxQ95WFm0YuBeFCa27H5xKV)

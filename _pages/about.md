@@ -32,4 +32,3 @@ Vous pouvez m'écrire à colas (point) bardavid (at) gmail.com
 - Je suis titulaire d'une licence de philosophie de la Sorbonne.
 
 
-

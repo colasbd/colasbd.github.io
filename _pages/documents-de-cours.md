@@ -21,6 +21,7 @@ title: "Documents de cours"
 - [Premières définitions](premieres_definitions.pdf)
 - [Propriétés des poussés-en-avant et des tirés-en-arrière](proprietes_des_pousses_et_des_tires.pdf)
 - [Rappels et compléments sur les fonctions usuelles](rappels_et_complements_fonctions.pdf)
+- [Suites f-définies par récurrence](PCSI_2020_21_suites_f_recurrentes.pdf)
 
 ### 2019/2020
 - [Formule du déterminant en dimension 5](2019_20_PCSI_determinant_en_dimension_5.pdf)
