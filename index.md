@@ -16,7 +16,8 @@ title: "Page professionnelle de Colas Bardavid"
 excerpt: "Documents de mathématiques"
 ---
 <!--# Page professionnelle de Colas Bardavid-->
-Vous trouverez sur cette page des documents et ressources mathématiques qui pourront être utiles aux étudiants, aux enseignants et aux personnes qui préparent les concours de l'enseignement.
+Vous trouverez sur cette page des documents et ressources mathématiques et informatiques.
+<!-- qui pourront être utiles aux étudiants, aux enseignants et aux personnes qui préparent les concours de l'enseignement.-->
 
 
 ## Documents pédagogiques
@@ -42,3 +43,7 @@ Je collabore régulièrement à la *RMS*.
 ## Vidéos d'exercices corrigés
 Ces vidéos ont été réalisées pendant le confinement de mars-juin 2020, à l'intention de mes élèves de PCSI du lycée Sainte-Geneviève.
 - [Vidéos d'exercices corrigés](https://www.youtube.com/playlist?list=PLXbwGLiLTeqxQ95WFm0YuBeFCa27H5xKV)
+
+
+## Fragments de code
+Je mets ici à disposition des [fragments de code]({{ site.baseurl }}{% link _pages/fragments-de-code.md %}), en particulier de code LaTeX.
