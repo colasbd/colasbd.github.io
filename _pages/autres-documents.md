@@ -22,4 +22,4 @@ title: "Autres documents"
 - [Cahier d'algorithmes classiques sur les listes](algorithmes_listes_cahier_de_correction.pdf)
 
 ### 2018/2019
-- [Noyaux de formes linéaires](DS_blanc_2018_19_formes_linéaires.pdf)
+- [Noyaux de formes linéaires](DS_blanc_2018_19_formes_lineaires.pdf)
