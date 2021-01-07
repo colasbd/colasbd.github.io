@@ -48,7 +48,11 @@ et [vidéo](https://youtu.be/no9y2DzCRvQ))
 ([fichier .pdf](8_k_algebres_Produit_libre_de_deux_groupes.pdf)
 et [vidéo](https://youtu.be/_M6IW8OryK8))
 
-1. Histoire. Revêtements. Qu'est-ce qu'un isomorphisme naturel ?  
+1. Quelques points d'histoire des catégories.  Revêtements.  
+Qu'est-ce qu'un isomorphisme naturel ?  
 ([fichier .pdf](9_Histoire_Revetements_Isomorphismes_naturels.pdf)
 et [vidéo](https://youtu.be/AikoBApiMTI))
 
+1. Définition des transformations naturelles  
+([fichier .pdf](10_transformations_naturelles.pdf)
+et [vidéo](https://youtu.be/1_VGt0f2LFM))
