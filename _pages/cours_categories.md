@@ -53,6 +53,6 @@ Qu'est-ce qu'un isomorphisme naturel ?
 ([fichier .pdf](9_Histoire_Revetements_Isomorphismes_naturels.pdf)
 et [vidéo](https://youtu.be/AikoBApiMTI))
 
-1. Définition des transformations naturelles  
+1. Définition des transformations naturelles.  
 ([fichier .pdf](10_transformations_naturelles.pdf)
 et [vidéo](https://youtu.be/1_VGt0f2LFM))
