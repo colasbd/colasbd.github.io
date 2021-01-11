@@ -22,6 +22,7 @@ title: "Devoirs surveillés"
   - Ce sujet faisait suite à un DM établissant [six contrôles des racines d'un polynôme par ses coefficients](DM_06_2020_21_six_controles_des_racines.pdf).
   - Il a donné lieu également à un devoir facultatif sur [l'enveloppe convexe](DM_convexes_de_C.pdf) d'une partie de C.
 - [TP d'infomatique évalué](TP_note_1_PCSI3_2020_21.pdf)
+- [Étude des polynômes en Python](DS1_informatique_PCSI3_2020_21_sujet.pdf) : DS1 d'informatique et [son corrigé](DS1_informatique_PCSI3_2020_21_corrige.pdf)
 
 ### 2019/2020
 - [Suites qui piétinent](DS4_PCSI_2019_20_Suites_qui_pietinent.pdf) et son [corrigé](DS4_PCSI_2019_20_Suites_qui_pietinent_CORRIGE.pdf).
