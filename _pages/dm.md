@@ -22,13 +22,15 @@ title: "Devoirs à la maison"
 - [Relations et inégalités](DM_relations_et_inegalites.pdf)
 - [Six contrôles des racines](DM_06_2020_21_six_controles_des_racines.pdf)
 - [Convexes de C](DM_convexes_de_C.pdf)
+- [Diagrammes](PCSI_2020_21_DM_diagrammes.pdf)
+
+
 
 ### 2019/2020
 - [Approche axiomatique des inégalités réelles](DM2_2018_2019_axiomatique_inegalites.pdf)
 - [Inégalités de Cauchy-Schwarz](DM04_2019_2020_Cauchy_Schwarz.pdf)
 - [Nombres algébriques, nombres transcendants](DM06_2019_2020_nombres_transcendants.pdf)
 - [Suites sommables](DM08_2019_2020_suites_sommables.pdf)
-- [Diagrammes](DM10_2019_2020_Diagrammes.pdf)
 - [Autour des fonctions lipschitziennes](DM11_2019_2020_fonctions_lipschitziennes.pdf)
 
 ### 2018/2019
