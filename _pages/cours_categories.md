@@ -56,3 +56,8 @@ et [vidéo](https://youtu.be/AikoBApiMTI))
 1. Définition des transformations naturelles.  
 ([fichier .pdf](10_transformations_naturelles.pdf)
 et [vidéo](https://youtu.be/1_VGt0f2LFM))
+
+1. Sinus et cosinus discrets.  
+Point de vue familial sur les transformations naturelles.  
+([fichier .pdf](11_Sinus_discret_transformations_naturelles_en_famille.pdf)
+et [vidéo](https://youtu.be/xxV7clBr4aE))
