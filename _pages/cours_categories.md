@@ -61,3 +61,8 @@ et [vidéo](https://youtu.be/1_VGt0f2LFM))
 Point de vue familial sur les transformations naturelles.  
 ([fichier .pdf](11_Sinus_discret_transformations_naturelles_en_famille.pdf)
 et [vidéo](https://youtu.be/xxV7clBr4aE))
+
+1. Trois exemples de transformations naturelles.  
+Parties d'un ensemble, bidual d'un espace et abélianisé d'un groupe.  
+([fichier .pdf](12_Trois_exemples_de_transformations_naturelles.pdf)
+et [vidéo](https://youtu.be/L6ObOdysnd8))
