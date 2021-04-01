@@ -67,8 +67,12 @@ Parties d'un ensemble, bidual d'un espace et abélianisé d'un groupe.
 ([fichier .pdf](12_Trois_exemples_de_transformations_naturelles.pdf)
 et [vidéo](https://youtu.be/L6ObOdysnd8))
 
-
 1. Modules sur les anneaux principaux, groupes abéliens de type fini.  Vers un isomorphisme non naturel.  
 ([fichier .pdf](13_Vers_un_isomorphisme_non_naturel.pdf)
 et [vidéo](https://youtu.be/tj79K2TEwWA))
+
+1. Propriétés et structure : vers les catégories supérieures.  
+Exposé de Maxime Ramzi
+([fichier .pdf](14_Proprietes_et_structure.pdf)
+et [vidéo](https://youtu.be/UPiFYr9g2Cs))
 
