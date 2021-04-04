@@ -72,7 +72,7 @@ et [vidéo](https://youtu.be/L6ObOdysnd8))
 et [vidéo](https://youtu.be/tj79K2TEwWA))
 
 1. Propriétés et structure : vers les catégories supérieures.  
-Exposé de Maxime Ramzi
+Exposé de Maxime Ramzi.  
 ([fichier .pdf](14_Proprietes_et_structure.pdf)
 et [vidéo](https://youtu.be/UPiFYr9g2Cs))
 
