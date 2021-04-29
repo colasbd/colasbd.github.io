@@ -76,3 +76,7 @@ Exposé de Maxime Ramzi.
 ([fichier .pdf](14_Proprietes_et_structure.pdf)
 et [vidéo](https://youtu.be/UPiFYr9g2Cs))
 
+1. Modules libres de type fini. Rang. Cas des anneaux principaux.  
+([fichier .pdf](15_Modules_libres_de_type_fini.pdf)
+et [vidéo](https://youtu.be/Nces16PTKpY))
+
