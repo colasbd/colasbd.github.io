@@ -23,6 +23,7 @@ title: "Devoirs surveillés"
 - DS6 : [Suites polygéométrioques](DS6_PCSI3_2020_21_sujet.pdf) et son [corrigé](DS6_PCSI3_2020_21_corrige.pdf).
 - (info) TP évalué 1 : [Algorithme sur les listes](TP_note_1_PCSI3_2020_21.pdf)
 - (info) DS1 : [Étude des polynômes en Python](DS1_informatique_PCSI3_2020_21_sujet.pdf) et [son corrigé](DS1_informatique_PCSI3_2020_21_corrige.pdf).
+- (info) DS2 : [Étude d'une intégrale ; Enveloppe convexe](DS2_informatique_PCSI3_2020_21_sujet.pdf) et [son corrigé](DS2_informatique_PCSI3_2020_21_corrige.pdf).
 
 ### 2019/2020
 - DS4 : [Suites qui piétinent](DS4_PCSI_2019_20_Suites_qui_pietinent.pdf) et son [corrigé](DS4_PCSI_2019_20_Suites_qui_pietinent_CORRIGE.pdf).
