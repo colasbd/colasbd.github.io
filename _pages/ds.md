@@ -20,7 +20,7 @@ title: "Devoirs surveillés"
 ### 2020/2021
 - DS3 : [Trois contrôles supplémentaires des racines](DS3_PCSI3_2020_21_CBD_sujet.pdf) et son [corrigé](DS3_PCSI3_2020_21_CBD_corrige.pdf).
 - DS4 : [Étude d'une suite de racines](DS4_PCSI3_2020_21_sujet.pdf) et son [corrigé](DS4_PCSI3_2020_21_correction.pdf).
-- DS6 : [Suites polygéométrioques](DS6_PCSI3_2020_21_sujet.pdf) et son [corrigé](DS6_PCSI3_2020_21_corrige.pdf).
+- DS6 : [Suites polygéométriques](DS6_PCSI3_2020_21_sujet.pdf) et son [corrigé](DS6_PCSI3_2020_21_corrige.pdf).
 - (info) TP évalué 1 : [Algorithme sur les listes](TP_note_1_PCSI3_2020_21.pdf)
 - (info) DS1 : [Étude des polynômes en Python](DS1_informatique_PCSI3_2020_21_sujet.pdf) et [son corrigé](DS1_informatique_PCSI3_2020_21_corrige.pdf).
 - (info) DS2 : [Étude d'une intégrale ; Enveloppe convexe](DS2_informatique_PCSI3_2020_21_sujet.pdf) et [son corrigé](DS2_informatique_PCSI3_2020_21_corrige.pdf).
