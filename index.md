@@ -23,9 +23,11 @@ Vous trouverez sur cette page des documents et ressources mathématiques et info
 ## Documents pédagogiques
 - [Devoirs surveillés]({{ site.baseurl }}{% link _pages/ds.md %})
 - [Devoirs à la maison]({{ site.baseurl }}{% link _pages/dm.md %})
+- [Le cahier de calcul]({{ site.baseurl }}{% link _pages/cdc.md %})
 - [Documents de cours]({{ site.baseurl }}{% link _pages/documents-de-cours.md %})
 - [Autres documents]({{ site.baseurl }}{% link _pages/autres-documents.md %})
 - [Anciens documents]({{ site.baseurl }}{% link _pages/anciens-documents.md %})
+
 
 
 ## Cours sur les catégories
