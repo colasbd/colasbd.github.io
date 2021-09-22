@@ -17,9 +17,27 @@ title: "Devoirs surveillés"
 *Voici quelques-uns des DS donnés à mes élèves de PCSI du [lycée Sainte-Geneviève](https://www.bginette.com).*
 
 
+### 2021/2022
+- DS1 : [Systèmes (A,B) et inégalités](DS1_PCSI3_2021_22_sujet.pdf).
+
 ### 2020/2021
 #### Mathématiques
-- DS3 : [Trois contrôles supplémentaires des racines](DS3_PCSI3_2020_21_CBD_sujet.pdf) et son [corrigé](DS3_PCSI3_2020_21_CBD_corrige.pdf).
+- DS3 : [Trois contrôles supplémentaires des racines](DS3_PCSI3_2020_21_CBD_sujet.pdf). 
+- DS4 : [Étude d'une suite de racines](DS4_PCSI3_2020_21_sujet.pdf).
+- DS6 : [Suites polygéométriques](DS6_PCSI3_2020_21_sujet.pdf).
+- DS7 : [Autour de $$\ell^2$$](DS7_PCSI3_2020_21_sujet.pdf).
+
+#### Informatique
+- TP évalué : [Algorithme sur les listes](TP_note_1_PCSI3_2020_21.pdf)
+- DS1 : [Étude des polynômes en Python](DS1_informatique_PCSI3_2020_21_sujet.pdf).
+- DS2 : [Étude d'une intégrale ; Enveloppe convexe](DS2_informatique_PCSI3_2020_21_sujet.pdf).
+
+### 2019/2020
+- DS4 : [Suites qui piétinent](DS4_PCSI_2019_20_Suites_qui_pietinent.pdf).
+
+
+<!--
+- DS3 : [Trois contrôles supplémentaires des racines](DS3_PCSI3_2020_21_CBD_sujet.pdf). et son [corrigé](DS3_PCSI3_2020_21_CBD_corrige.pdf).
 - DS4 : [Étude d'une suite de racines](DS4_PCSI3_2020_21_sujet.pdf) et son [corrigé](DS4_PCSI3_2020_21_correction.pdf).
 - DS6 : [Suites polygéométriques](DS6_PCSI3_2020_21_sujet.pdf) et son [corrigé](DS6_PCSI3_2020_21_corrige.pdf).
 - DS7 : [Autour de $$\ell^2$$](DS7_PCSI3_2020_21_sujet.pdf) et son [corrigé](DS7_PCSI3_2020_21_corrige.pdf).
@@ -31,4 +49,5 @@ title: "Devoirs surveillés"
 
 ### 2019/2020
 - DS4 : [Suites qui piétinent](DS4_PCSI_2019_20_Suites_qui_pietinent.pdf) et son [corrigé](DS4_PCSI_2019_20_Suites_qui_pietinent_CORRIGE.pdf).
+-->
 
