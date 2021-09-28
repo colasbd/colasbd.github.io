@@ -16,11 +16,16 @@ title: "Le cahier de calcul"
 
 
 Le cahier de calcul est destiné aux élèves de première année Post-Bac. Il permet aux élèves de s'entraîner en autonomie à la pratique du calcul. Ce travail, que j'ai coordonné, a été réalisé collectivement par une trentaine de professeurs.
-- [Énoncés seuls](cahier_de_calcul_enonces_v3.pdf)
-- [Réponses seules](cahier_de_calcul_reponses_v3.pdf)
-- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v3.pdf)
-- [Énoncés, réponses et corrigés](cahier_de_calcul_v3.pdf)
+- [Énoncés seuls](cahier_de_calcul_enonces_v4.pdf)
+- [Réponses seules](cahier_de_calcul_reponses_v4.pdf)
+- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v4.pdf)
+- [Énoncés, réponses et corrigés](cahier_de_calcul_v4.pdf)
 
+---
+
+*La dernière version du cahier de calcul est la version 4.*
+
+---
 
 Voici les conditions d'utilisation et de partage de ce document : 
 - La version PDF du cahier de calcul est librement diffusable.
@@ -30,4 +35,7 @@ Voici les conditions d'utilisation et de partage de ce document :
 - Le contenu du cahier de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
 - Les noms des participants au projet sont indiqués en page 2 du cahier de calcul.
 
-**Participants :**  Vincent Bayle, Romain Basson, Olivier Bertrand, Ménard Bourgade, Julien Bureaux, Alain Camanes, Mathieu Charlot, Mathilde Colin de Verdière, Keven Commault, Miguel Concy, Rémy Eupherte, Hélène Gros, Audrey Hechner, Florian Hechner, Marie Hézard, Nicolas Laillet, Valérie Le Blanc, Thierry Limoges, Quang-Thai Ngo, Xavier Pellegrin, Fabien Pellegrini, Jean-Louis Pourtier, Valérie Robert, Jean-Pierre Técourt, Guillaume Tomasini, Marc Tenti
+---
+
+### Participants
+Vincent Bayle, Romain Basson, Olivier Bertrand, Ménard Bourgade, Julien Bureaux, Alain Camanes, Mathieu Charlot, Mathilde Colin de Verdière, Keven Commault, Miguel Concy, Rémy Eupherte, Hélène Gros, Audrey Hechner, Florian Hechner, Marie Hézard, Nicolas Laillet, Valérie Le Blanc, Thierry Limoges, Quang-Thai Ngo, Xavier Pellegrin, Fabien Pellegrini, Jean-Louis Pourtier, Valérie Robert, Jean-Pierre Técourt, Guillaume Tomasini, Marc Tenti
