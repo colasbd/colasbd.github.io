@@ -14,7 +14,7 @@ permalink: /ds/
 title: "Devoirs surveillés"
 ---
 
-*Voici quelques-uns des DS donnés à mes élèves de PCSI du [lycée Sainte-Geneviève](https://www.bginette.com).*
+
 
 
 ### 2021/2022
