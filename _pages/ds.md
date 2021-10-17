@@ -19,6 +19,7 @@ title: "Devoirs surveillés"
 
 ### 2021/2022
 - DS1 : [Systèmes (A,B) et inégalités](DS1_PCSI3_2021_22_sujet.pdf).
+- DS2 : [Fonctions ouraliennes](DS_2_PCSI3_2021_22_sujet_final.pdf).
 
 ### 2020/2021
 #### Mathématiques
