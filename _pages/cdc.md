@@ -38,4 +38,4 @@ Voici les conditions d'utilisation et de partage de ce document :
 ---
 
 ### Participants
-Vincent Bayle, Romain Basson, Olivier Bertrand, Ménard Bourgade, Julien Bureaux, Alain Camanes, Mathieu Charlot, Mathilde Colin de Verdière, Keven Commault, Miguel Concy, Rémy Eupherte, Hélène Gros, Audrey Hechner, Florian Hechner, Marie Hézard, Nicolas Laillet, Valérie Le Blanc, Thierry Limoges, Quang-Thai Ngo, Xavier Pellegrin, Fabien Pellegrini, Jean-Louis Pourtier, Valérie Robert, Jean-Pierre Técourt, Guillaume Tomasini, Marc Tenti
+Vincent Bayle, Romain Basson, Olivier Bertrand, Ménard Bourgade, Julien Bureaux, Alain Camanes, Mathieu Charlot, Mathilde Colin de Verdière, Keven Commault, Miguel Concy, Rémy Eupherte, Hélène Gros, Audrey Hechner, Florian Hechner, Marie Hézard, Nicolas Laillet, Valérie Le Blanc, Thierry Limoges, Quang-Thai Ngo, Xavier Pellegrin, Fabien Pellegrini, Jean-Louis Pourtier, Valérie Robert, Jean-Pierre Técourt, Guillaume Tomasini, Marc Tenti.
