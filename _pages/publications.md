@@ -27,12 +27,16 @@ title: "Articles"
 
 ## Articles acceptés pour publication
 
-1. [Deux critères pour être de mesure nulle](deux_criteres_pour_etre_de_mesure_nulle_v4.pdf), à paraître dans la RMS.
 
-1. avec Éric Pité, [Un raffinement du théorème de Gauss-Lucas](RMS_Q720_v4.pdf), à paraître dans la RMS.
 
 
 ## Articles publiés
+
+1. [Deux critères pour être de mesure nulle](deux_criteres_pour_etre_de_mesure_nulle_v4.pdf),  
+RMS 131-1, 3-15 (2021)
+
+1. avec Éric Pité, [Un raffinement du théorème de Gauss-Lucas](RMS_Q720_v4.pdf),  
+RMS 131-1, 96-101 (2021)
 
 1. avec Éric Pité, [*Structure des anneaux commutatifs finis.*](structure_des_anneaux_finis.pdf)  
 RMS 130-4, 43-56 (2020). 
