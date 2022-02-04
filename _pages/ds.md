@@ -22,7 +22,10 @@ title: "Devoirs surveillés"
 - DS1 : [Systèmes (A,B) et inégalités](DS1_PCSI3_2021_22_sujet.pdf)
 - DS2 : [Fonctions ouraliennes](DS_2_PCSI3_2021_22_sujet_final.pdf)
 - DS3 : [Contrôle des polynômes : plusieurs résultats de transfert](DS_3_PCSI3_2021_22_sujet.pdf)
+- DS4 : [Transferts entre contrôles polynomiaux : une minoration asymptotique](DS_4_PCSI3_2021_22_sujet.pdf)
 
+
+DS_4_PCSI3_2021_22_sujet.pdf
 #### Informatique
 - DS1 : [Nombres entiers en informatique](DS1_informatique_PCSI3_2021_22_sujet.pdf)
 
