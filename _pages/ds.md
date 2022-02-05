@@ -25,7 +25,6 @@ title: "Devoirs surveillés"
 - DS4 : [Transferts entre contrôles polynomiaux : une minoration asymptotique](DS_4_PCSI3_2021_22_sujet.pdf)
 
 
-DS_4_PCSI3_2021_22_sujet.pdf
 #### Informatique
 - DS1 : [Nombres entiers en informatique](DS1_informatique_PCSI3_2021_22_sujet.pdf)
 
