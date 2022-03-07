@@ -16,14 +16,14 @@ title: "Le cahier de calcul"
 
 
 Le cahier de calcul est destiné aux élèves de première année Post-Bac. Il permet aux élèves de s'entraîner en autonomie à la pratique du calcul. Ce travail, que j'ai coordonné, a été réalisé collectivement par une trentaine de professeurs.
-- [Énoncés seuls](cahier_de_calcul_enonces_v9.pdf)
-- [Réponses seules](cahier_de_calcul_reponses_v9.pdf)
-- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v9.pdf)
-- [Énoncés, réponses et corrigés](cahier_de_calcul_v9.pdf)
+- [Énoncés seuls](cahier_de_calcul_enonces_v10.pdf)
+- [Réponses seules](cahier_de_calcul_reponses_v10.pdf)
+- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v10.pdf)
+- [Énoncés, réponses et corrigés](cahier_de_calcul_v10.pdf)
 
 ---
 
-*La dernière version du cahier de calcul est la version 9.*
+*La dernière version du cahier de calcul est la version 10.*
 
 ---
 
