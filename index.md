@@ -16,7 +16,7 @@ title: "Page professionnelle de Colas Bardavid"
 excerpt: "Documents de mathématiques"
 ---
 <!--# Page professionnelle de Colas Bardavid-->
-Vous trouverez sur cette page des documents et ressources mathématiques et informatiques.
+Vous trouverez sur cette page des documents et ressources mathématiques et informatique.
 <!-- qui pourront être utiles aux étudiants, aux enseignants et aux personnes qui préparent les concours de l'enseignement.-->
 
 
