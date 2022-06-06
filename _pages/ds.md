@@ -24,6 +24,7 @@ title: "Devoirs surveillés"
 - DS3 : [Contrôle des polynômes : plusieurs résultats de transfert](DS_3_PCSI3_2021_22_sujet.pdf)
 - DS4 : [Transferts entre contrôles polynomiaux : une minoration asymptotique](DS_4_PCSI3_2021_22_sujet.pdf)
 - DS6 : [Autour de la nilpotence : deux résultats](DS_6_PCSI3_2021_22_sujet.pdf)
+- DS6 : [Étude d'une série trigonométrique](DS_7_PCSI3_2021_22_sujet.pdf)
 
 
 #### Informatique
