@@ -19,14 +19,14 @@ title: "Le cahier de calcul"
 Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-calcul-en-maths-classes-prepas) par Dunod du cahier de calcul. Le prix est très abordable et le format très pratique.
 
 Le cahier de calcul est destiné aux élèves de première année Post-Bac. Il permet aux élèves de s'entraîner en autonomie à la pratique du calcul. Ce travail, que j'ai coordonné, a été réalisé collectivement par une trentaine de professeurs.
-- [Énoncés seuls](cahier_de_calcul_enonces_v11.pdf)
-- [Réponses seules](cahier_de_calcul_reponses_v11.pdf)
-- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v11.pdf)
-- [Énoncés, réponses et corrigés](cahier_de_calcul_v11.pdf)
+- [Énoncés seuls](cahier_de_calcul_enonces_v12.pdf)
+- [Réponses seules](cahier_de_calcul_reponses_v12.pdf)
+- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v12.pdf)
+- [Énoncés, réponses et corrigés](cahier_de_calcul_v12.pdf)
 
 ---
 
-*La dernière version du cahier de calcul est la version 11.*
+*La dernière version du cahier de calcul est la version 12.*
 
 ---
 
