@@ -17,12 +17,11 @@
 locale: "fr-FR"
 url: "https://colasbd.github.io"
 
-title: Site de Colas Bardavid, professeur de mathématiques en CPGE
+title: Page professionnelle de Colas Bardavid
 masthead_title: " "
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Page de Colas Bardavid. Documents mathématiques pour étudiants en classes préparatoires MPSI, MP2I,
-  PCSI, PTSI, CAPES, agrégation, etc.
+  Page professionnelle de Colas Bardavid.
 #twitter_username: __colas
 github_username: colasbd
 minimal_mistakes_skin: air #neon #mint #contrast #default
@@ -64,16 +63,17 @@ plugins:
 author:
   name      : "Colas Bardavid"
   avatar    : "/assets/images/photoColas.jpg"
-  bio       : "Professeur de mathématiques et d'informatique en classes préparatoires"
-  biobis    : "[Lycée Sainte-Geneviève](https://www.bginette.com)"
+  bio       : "Professeur de mathématiques en MPSI"
+  biobis    : "[Lycée Chateaubriand (Rennes)](https://www.lycee-chateaubriand.fr/)"
+  bioter    : "Coucou"
 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/colasbd"
-    - label: "Improov Maths"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Improov_Maths"
+    #- label: "Improov Maths"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/Improov_Maths"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/__colas"
@@ -87,9 +87,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/colasbd"
-    - label: "Improov Maths"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Improov_Maths"
+    #- label: "Improov Maths"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/Improov_Maths"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/__colas"
