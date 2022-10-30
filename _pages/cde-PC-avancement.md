@@ -53,5 +53,8 @@ Champ électrique
 Particule dans un champ électromagnétique
 Champ magnétique
 Induction
+
+# Chimie
+
 Réactions chimiques
 Cinétique chimique
