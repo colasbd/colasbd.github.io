@@ -11,7 +11,7 @@ header:
 
 author_profile: no
 permalink: /cde-PC/
-title: "Cahier d'entraînement en physique-chimie"
+title: "CdE PC : avancement du livre"
 ---
 
 *Cahier d'entraînement est abrégé en CdE.*
@@ -22,7 +22,7 @@ title: "Cahier d'entraînement en physique-chimie"
 
 # Fichiers d'aide et d'information
 
-- [Vademecum LaTeX](vademecum_LaTeX_v1.pdf), v1
+- [Vademecum LaTeX](vademecum_LaTeX_v1.pdf) (v1)
 - [L'introduction du CdE](cahier_de_calcul_reponses_v12.pdf) (en cours d'écriture)
 - [Un exemple de fiche](cahier_de_calcul_corriges_v12.pdf) : le PFD
 - [Utilisation des commandes LaTeX du CdE](cahier_de_calcul_v12.pdf)
