@@ -14,39 +14,44 @@ permalink: /cde-PC/
 title: "CdE PC : avancement du livre"
 ---
 
-*Cahier d'entraînement est abrégé en CdE.*
+# Généralités
 
-# État d'avancement du livre
+## Conversions
+## Chiffres significatifs et incertitudes
+## Signal
 
-- [page]() regroupant les informations sur l'avancement du livre
+# Mécanique
 
-# Fichiers d'aide et d'information
+## Cinématique
+## PFD
+## Approche énergétique en mécanique
+## Moment cinétique
 
-- [Vademecum LaTeX](vademecum_LaTeX_v1.pdf) (v1)
-- [L'introduction du CdE](cahier_de_calcul_reponses_v12.pdf) (en cours d'écriture)
-- [Un exemple de fiche](cahier_de_calcul_corriges_v12.pdf) : le PFD
-- [Utilisation des commandes LaTeX du CdE](cahier_de_calcul_v12.pdf)
+# Optique
 
----
+Lois de Snell-Descartes
+Lentilles
 
-# Figures TikZ
+# Généralités
 
-- Pour les figures du livre, elles seront toutes réalisées en LaTeX.
-- Si vous ne maîtrisez pas TikZ, envoyez-moi une photo d'une figure faite à la main que vous souhaitez insérer. Une description de la figure n'est pas suffisante, il faut vraiment un dessin de la figure que vous souhaitez.
+Étude des circuits électriques I
+Étude des circuits électriques II
+Étude des filtres
+Énergie et puissance électrique
+ALI
 
-*La dernière version du cahier de calcul est la version 12.*
+# Thermodynamique
 
----
+Le gaz parfait
+1er Principe
+2nd Principe et machines thermiques
+Statique des fluides
 
-Voici les conditions d'utilisation et de partage de ce document : 
-- La version PDF du cahier de calcul est librement diffusable par les professeurs auprès de leurs élèves.
-- Les participants au projet peuvent le rendre disponible sur leur site web.
-- Le PDF et les sources LaTeX seront mis à disposition des membres de l'UPS via la BEDOC de l'UPS.
-- Les sources LaTeX ne sont pas diffusables hors BEDOC.
-- Le contenu du cahier de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
-- Les noms des participants au projet sont indiqués en page 2 du cahier de calcul.
+# Électromagnétisme
 
----
-
-### Participants
-Vincent Bayle, Romain Basson, Olivier Bertrand, Ménard Bourgade, Julien Bureaux, Alain Camanes, Mathieu Charlot, Mathilde Colin de Verdière, Keven Commault, Miguel Concy, Rémy Eupherte, Hélène Gros, Audrey Hechner, Florian Hechner, Marie Hézard, Nicolas Laillet, Valérie Le Blanc, Thierry Limoges, Quang-Thai Ngo, Xavier Pellegrin, Fabien Pellegrini, Jean-Louis Pourtier, Valérie Robert, Jean-Pierre Técourt, Guillaume Tomasini, Marc Tenti.
+Champ électrique
+Particule dans un champ électromagnétique
+Champ magnétique
+Induction
+Réactions chimiques
+Cinétique chimique

@@ -23,9 +23,14 @@ title: "Cahier d'entraînement en physique-chimie"
 # Fichiers d'aide et d'information
 
 - [Vademecum LaTeX](vademecum_LaTeX_v1.pdf), v1
-- [L'introduction du CdE](cahier_de_calcul_reponses_v12.pdf) (en cours d'écriture)
-- [Un exemple de fiche](cahier_de_calcul_corriges_v12.pdf) : le PFD
+- [L'introduction du CdE](introduction_CdE_PC_v1.pdf), v1
+
 - [Utilisation des commandes LaTeX du CdE](cahier_de_calcul_v12.pdf)
+
+# Un exemple de fiche : le PFD
+
+- [le PDF](fiche_MCA01_CBD_v1.pdf), v1
+- [les sources LaTeX zippés](fiche_MCA01_v1.zip), v1
 
 ---
 
