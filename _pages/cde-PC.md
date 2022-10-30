@@ -16,6 +16,10 @@ title: "Cahier d'entraînement en physique-chimie"
 
 *Cahier d'entraînement est abrégé en CdE.*
 
+# État d'avancement du livre
+
+- [page regroupant les informations sur l'avancement du livre]({{ site.baseurl }}{% link _pages/cde-PC-avancement.md %})
+
 # Fichiers d'aide et d'information
 
 - [Vademecum LaTeX](vademecum_LaTeX_v1.pdf), v1
