@@ -14,47 +14,40 @@ permalink: /cde-PC-avancement/
 title: "CdE PC : avancement du livre"
 ---
 
-# Généralités
+### Conversions
+### Chiffres significatifs et incertitudes
+### Signal
+### Cinématique
+### PFD
 
-## Conversions
-## Chiffres significatifs et incertitudes
-## Signal
+- Auteur : collectif
+- Fichier : [fiche_MCA01_CBD_v1.pdf](fiche_MCA01_CBD_v1.pdf)
 
-# Mécanique
+### Approche énergétique en mécanique
+### Moment cinétique
 
-## Cinématique
-## PFD
-## Approche énergétique en mécanique
-## Moment cinétique
 
-# Optique
+### Lois de Snell-Descartes
+### Lentilles
 
-Lois de Snell-Descartes
-Lentilles
 
-# Généralités
+### Étude des circuits électriques I
+### Étude des circuits électriques II
+### Étude des filtres
+### Énergie et puissance électrique
+### ALI
 
-Étude des circuits électriques I
-Étude des circuits électriques II
-Étude des filtres
-Énergie et puissance électrique
-ALI
 
-# Thermodynamique
+### Le gaz parfait
+### 1er Principe
+### 2nd Principe et machines thermiques
+### Statique des fluides
 
-Le gaz parfait
-1er Principe
-2nd Principe et machines thermiques
-Statique des fluides
 
-# Électromagnétisme
+### Champ électrique
+### Particule dans un champ électromagnétique
+### Champ magnétique
+### Induction
 
-Champ électrique
-Particule dans un champ électromagnétique
-Champ magnétique
-Induction
-
-# Chimie
-
-Réactions chimiques
-Cinétique chimique
+### Réactions chimiques
+### Cinétique chimique
