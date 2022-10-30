@@ -18,7 +18,7 @@ title: "Cahier d'entraînement en physique-chimie"
 
 # État d'avancement du livre
 
-- [Informations sur l'avancement du livre](cde-PC-avancement.md)
+- [Informations sur l'avancement du livre]({{ site.baseurl }}{% link _pages/cde-PC-avancement.md %})
 
 ---
 
