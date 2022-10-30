@@ -14,17 +14,21 @@ permalink: /cde-phy-chi/
 title: "Cahier d'entraînement en physique-chimie"
 ---
 
-![cahier d'entraînement en physique-chimie](/assets/images/image_cdc.jpg)
+*Cahier d'entraînement est abrégé en CdE.*
 
-Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-calcul-en-maths-classes-prepas) par Dunod du *cahier de calcul*. Le prix est très abordable et le format très pratique.
+# Fichiers d'aide et d'information
 
-Le cahier de calcul est destiné aux élèves de première année Post-Bac. Il permet aux élèves de s'entraîner en autonomie à la pratique du calcul. Ce travail a été réalisé collectivement par une trentaine de professeurs en classes préparatoires.
-- [Énoncés seuls](cahier_de_calcul_enonces_v12.pdf)
-- [Réponses seules](cahier_de_calcul_reponses_v12.pdf)
-- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v12.pdf)
-- [Énoncés, réponses et corrigés](cahier_de_calcul_v12.pdf)
+- [Vademecum LaTeX](cahier_de_calcul_enonces_v12.pdf)
+- [L'introduction du CdE](cahier_de_calcul_reponses_v12.pdf) (en cours d'écriture)
+- [Un exemple de fiche](cahier_de_calcul_corriges_v12.pdf) : le PFD
+- [Utilisation des commandes LaTeX du CdE](cahier_de_calcul_v12.pdf)
 
 ---
+
+# Figures TikZ
+
+- Pour les figures du livre, elles seront toutes réalisées en LaTeX.
+- Si vous ne maîtrisez pas TikZ, envoyez-moi une photo d'une figure faite à la main que vous souhaitez insérer. Une description de la figure n'est pas suffisante, il faut vraiment un dessin de la figure que vous souhaitez.
 
 *La dernière version du cahier de calcul est la version 12.*
 
