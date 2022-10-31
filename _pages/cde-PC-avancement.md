@@ -24,7 +24,7 @@ title: "CdE PC : avancement du livre"
 ### PFD
 
 - *auteur* : collectif
-- *fichier* : [fiche_MCA01_CBD_v1.pdf](fiche_MCA01_CBD_v1.pdf)
+- *fichier* : [fiche_MCA01_CBD_v1.pdf](fiche_MCA01_JRL_v1.pdf)
 
 ### Approche énergétique en mécanique
 ### Moment cinétique

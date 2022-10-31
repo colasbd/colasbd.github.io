@@ -55,3 +55,5 @@ Par exemple :
 
 -  Donnez la forme d’une solution et demandez de déterminer la valeur d’un paramètre en regardant un cas limite.  
 Exemple : la focale d’une lentille biconvexe de rayon de courbure R et d’indice n vaut $$f’=1/2 \times R/(n-a)$$ ; déterminer $$a$$ en s’intéressant au cas imite $$n\to 1$$.
+
+- Allez voir dans [la page d'avancement du livre]({{ site.baseurl }}{% link _pages/cde-PC-avancement.md %}) les fiches disponible pour y trouver de l'inspiration.
