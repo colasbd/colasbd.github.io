@@ -16,6 +16,7 @@ title: "CdE PC : pour trouver de l'inspiration"
 
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
 
+- N'ayez pas peur d'être redondant. Partez des calculs extrêmement simples et complexifiez-les petit à petit. Par exemple : en ajoutant des signes "-", en mettant en jeu des fractions, en introduisant des paramètres.
 
 - Donnez une relation reliant des grandeurs et faites faire au lecteur du calcul algébrique et/ou des AN.
 
