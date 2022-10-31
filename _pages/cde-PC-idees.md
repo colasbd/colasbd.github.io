@@ -16,9 +16,18 @@ title: "CdE PC : pour trouver de l'inspiration"
 
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
 
-- N'ayez pas peur d'être redondant. Partez des calculs extrêmement simples et complexifiez-les petit à petit. Par exemple : en ajoutant des signes "-", en mettant en jeu des fractions, en introduisant des paramètres.
+* N'ayez pas peur d'être redondant. Partez de calculs extrêmement simples et complexifiez-les petit à petit.  
+Par exemple : 
+  - en ajoutant des signes "-"
+  - en mettant en jeu des fractions
+  - ajoutez des racines carrées
+  - en introduisant des paramètres $$\alpha$$,  $$\beta$$, etc.
+  - ajoutez des puissances $$2^n$$, $$2^m$$, etc. ou des exponentielles.
+  - ajoutez des logarithmes.
 
-- Donnez une relation reliant des grandeurs et faites faire au lecteur du calcul algébrique et/ou des AN.
+* Donnez une relation reliant des grandeurs et 
+  - faites faire au lecteur du calcul algébrique 
+  - et/ou des AN.
 
 - Proposez un "combat de conversion" : entre 1 million de km et 1 minute lumière, qui est le plus long ? entre 3g dans 50 cl et 1kg dans 1m^3, qui est le plus concentré ?
 
