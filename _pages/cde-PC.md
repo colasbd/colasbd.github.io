@@ -28,6 +28,7 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 - [Vademecum LaTeX](vademecum_LaTeX_v1.pdf) (v1)
 - [L'introduction du CdE](introduction_CdE_PC_v1.pdf) (v1)
 - [Premiers pas pour créer une fiche](documentation_CdE_PC_v1.pdf) (v1)
+- [Le Zoom de présentation du 31/10/22](https://youtu.be/QzbzCrMlTi0)
 
 ---
 
@@ -35,18 +36,18 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 
 - Pour les figures du livre, elles seront toutes réalisées en LaTeX.
 - Si vous ne maîtrisez pas TikZ, envoyez-moi une photo d'une figure faite à la main que vous souhaitez insérer. Une description de la figure n'est pas suffisante, il faut vraiment un dessin de la figure que vous souhaitez.
-- Utilisez trigrammes et versionning également pour les figures TikZ. Dans la mesure du possible, créez des fichiers séparés, comme dans les exemples.
+- Utilisez trigrammes et versionning également pour les figures TikZ. Dans la mesure du possible, créez des fichiers séparés, comme dans les exemples donnés dans le "Projet CdE-PC portable".
 
 ---
 
 # Un exemple de fiche : le PFD
 
-- [le PDF](fiche_MCA01_JRL_v1.pdf) (v1)
-- [les sources LaTeX zippés](fiche_MCA01_v1.zip) (v1)
+- [le PDF](fiche_MCA02_JRL_v1.pdf) (v2)
+- [les sources LaTeX zippés](fiche_MCA02_v2.zip) (v2)
 
 ---
 
 # Le projet portable
 
-- [Le dossier zippé pour faire une fiche](Projet_CdE_PC_portable_v1.zip) (v1)
+- [Le dossier zippé pour faire une fiche](Projet_CdE_PC_portable_v2.zip) (v2)
 
