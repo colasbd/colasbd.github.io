@@ -30,4 +30,6 @@ title: "CdE PC : pour trouver de l'inspiration"
 
 - De même, déguisez du calcul algébrique et/ou du calcul de fractions dans des situations physiques.
 
-- Faire calculer des dérivées partielles de quantité définies par des formules. Ou, plus subtil, faire calculer $f(t) - f(t+dt)$ ou d'autres variations infinitésimales.
+- Faire calculer des dérivées partielles de quantité définies par des formules. Ou, plus subtil, faire calculer $$f(t) - f(t+dt)$$ ou d'autres variations infinitésimales.
+
+- Faire faire des petits DLs ultra simples ($$\sin(\varepsilon)$$, $$\ln(1-\varepsilon)$$, $$\sqrt(1+\varepsilon)$$), en demandant au lecteur de trouver une relation dans un cas limite.
