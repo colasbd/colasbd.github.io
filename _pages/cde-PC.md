@@ -42,8 +42,8 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 
 # Un exemple de fiche : le PFD
 
-- [le PDF](fiche_MCA02_JRL_v1.pdf) (v2)
-- [les sources LaTeX zippés](fiche_MCA02_v2.zip) (v2)
+- [le PDF](fiche_MCA02_JRL_v1.pdf) (v1)
+- [les sources LaTeX zippés](fiche_MCA02_v1.zip) (v1)
 
 ---
 
