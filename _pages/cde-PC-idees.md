@@ -16,6 +16,10 @@ title: "CdE PC : pour trouver de l'inspiration"
 
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
 
+* **Faites appel aux membres du projet en envoyant des mails aux volontaires** :
+  - individuels si vous êtes plus à l'aise dans un échange "one-to-one"
+  - collectifs pour éventuellement lancer une discussion de groupe
+
 * N'ayez pas peur d'être redondant. Partez de calculs extrêmement simples et complexifiez-les petit à petit.  
 Par exemple : 
   - en ajoutant des signes "-"
@@ -29,7 +33,9 @@ Par exemple :
   - faites faire au lecteur du calcul algébrique 
   - et/ou des AN.
 
-- Proposez un "combat de conversion" : entre 1 million de km et 1 minute lumière, qui est le plus long ? entre 3g dans 50 cl et 1kg dans 1m^3, qui est le plus concentré ?
+- Proposez un "combat de conversion" : 
+  - entre 1 million de km et 1 minute lumière, qui est le plus long ? 
+  - entre 3g dans 50 cl et 1kg dans 1m^3, qui est le plus concentré ?
 
 - Proposez un "combat de négligeabilité" : qui est négligeable devant qui entre 3g dans 50 cl et 1t dans 1km^3 ?
 
@@ -42,3 +48,6 @@ Par exemple :
 - Faire calculer des dérivées partielles de quantité définies par des formules. Ou, plus subtil, faire calculer $$f(t) - f(t+dt)$$ ou d'autres variations infinitésimales.
 
 - Faire faire des petits DLs ultra simples ($$\sin(\varepsilon)$$, $$\ln(1-\varepsilon)$$, $$\sqrt(1+\varepsilon)$$), en demandant au lecteur de trouver une relation dans un cas limite.
+
+- Proposez de petits entraînements pour vérifier que les conventions sont bien comprises.
+  - En particulier les conventions algébriques (signe du courant, $$V_A-V_B$$ ou le contraire ?) 
