@@ -30,8 +30,8 @@ Par exemple :
   - ajoutez des logarithmes.
 
 * Donnez une relation reliant des grandeurs et 
-  - faites faire au lecteur du calcul algébrique 
-  - et/ou des AN.
+  - faites faire à l'élève du calcul algébrique 
+  - faites faire à l'élève des AN.
 
 - Proposez un "combat de conversion" : 
   - entre 1 million de km et 1 minute lumière, qui est le plus long ? 
@@ -42,6 +42,8 @@ Par exemple :
 - Faites faire des calculs d’ordre de grandeur sans calculatrice.
 
 - Faites projeter des vecteurs, même si c'est dans des situations ultra simples.
+
+- Faites décomposer un vecteur dans une base.
 
 - Déguisez des calculs d'intégrales simples dans des situations physiques (avec des lois "ad hoc", pour des calculs de travail, de position, etc.).
 
