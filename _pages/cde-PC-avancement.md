@@ -14,6 +14,9 @@ permalink: /cde-PC-avancement/
 title: "CdE PC : avancement du livre"
 ---
 
+*[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
+
+
 ### Conversions
 ### Chiffres significatifs et incertitudes
 ### Signal
