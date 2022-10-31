@@ -28,3 +28,5 @@ title: "CdE PC : pour trouver de l'inspiration"
 - Déguisez des calculs d'intégrales simples dans des situations physiques (avec des lois "ad hoc").
 
 - De même, déguisez du calcul algébrique et/ou du calcul de fractions dans des situations physiques.
+
+- Faire calculer des dérivées partielles de quantité définies par des formules. Ou, plus subtil, faire calculer $f(t) - f(t+dt)$ ou d'autres variations infinitésimales.
