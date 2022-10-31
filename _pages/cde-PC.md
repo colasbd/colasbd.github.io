@@ -44,3 +44,9 @@ title: "Cahier d'entraînement en physique-chimie"
 - [le PDF](fiche_MCA01_JRL_v1.pdf) (v1)
 - [les sources LaTeX zippés](fiche_MCA01_v1.zip) (v1)
 
+---
+
+# Le projet portable
+
+- [Le dossier zippé pour faire une fiche](Projet_CdE_PC_portable_v1.zip) (v1)
+
