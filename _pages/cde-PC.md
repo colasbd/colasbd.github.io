@@ -11,7 +11,7 @@ header:
 
 author_profile: no
 permalink: /cde-PC/
-title: "Cahier d'entraînement en physique-chimie"
+title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie"
 ---
 
 *Cahier d'entraînement est abrégé en CdE.*
