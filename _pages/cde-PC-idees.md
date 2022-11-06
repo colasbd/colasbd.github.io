@@ -64,3 +64,6 @@ quand $$R_2 = (1+\alpha)R_1$$. C'est évidemment du calcul agébrique déguisé.
 Exemple : la focale d’une lentille biconvexe de rayon de courbure R et d’indice n vaut $$f’=1/2 \times R/(n-a)$$ ; déterminer $$a$$ en s’intéressant au cas imite $$n\to 1$$.
 
 - Allez voir dans [la page d'avancement du livre]({{ site.baseurl }}{% link _pages/cde-PC-avancement.md %}) les fiches disponible pour y trouver de l'inspiration.
+
+- Bibliothèque
+  * [How to solve Physics Problem](How_to_solve_Physics_Problem.pdf)
