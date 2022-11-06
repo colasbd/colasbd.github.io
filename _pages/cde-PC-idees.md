@@ -65,5 +65,5 @@ Exemple : la focale d’une lentille biconvexe de rayon de courbure R et d’ind
 
 - Allez voir dans [la page d'avancement du livre]({{ site.baseurl }}{% link _pages/cde-PC-avancement.md %}) les fiches disponible pour y trouver de l'inspiration.
 
-- Bibliothèque
+- **Bibliothèque :**
   * [How to solve Physics Problem](How_to_solve_Physics_Problem.pdf)
