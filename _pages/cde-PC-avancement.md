@@ -17,40 +17,51 @@ title: "CdE PC : avancement du livre"
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
 
 
-### Conversions
-### Chiffres significatifs et incertitudes
-### Signal
-### Cinématique
-### PFD
+### [GAL01] Conversions
 
-- *auteur* : collectif
+- *les idées de Claire* : [idees_Claire_GAL01_v1.pdf](idees_Claire_GAL01_v1.pdf)
+
+
+### [GAL02] Chiffres significatifs et incertitudes
+### [GAL03] Signal
+
+- *les idées de Claire* : [idees_Claire_GAL03_v1.pdf](idees_Claire_GAL03_v1.pdf)
+
+
+### [MCA01] Cinématique
+### [MCA02] PFD
+
+- *auteur* : Jimmy Roussel
 - *fichier* : [fiche_MCA02_CBD_v1.pdf](fiche_MCA02_JRL_v1.pdf)
 
-### Approche énergétique en mécanique
-### Moment cinétique
+### [MCA03] Approche énergétique en mécanique
+### [MCA04] Moment cinétique
 
 
-### Lois de Snell-Descartes
-### Lentilles
+### [OPT01] Lois de Snell-Descartes
+### [OPT02] Lentilles
 
 
-### Étude des circuits électriques I
-### Étude des circuits électriques II
-### Étude des filtres
-### Énergie et puissance électrique
-### ALI
+### [ELC01] Étude des circuits électriques I
+### [ELC02] Étude des circuits électriques II
+### [ELC03] Étude des filtres
+### [ELC04] Énergie et puissance électrique
+### [ELC05] ALI
 
 
-### Le gaz parfait
-### 1er Principe
-### 2nd Principe et machines thermiques
-### Statique des fluides
+### [THM01] Le gaz parfait
+### [THM02] Premier principe
+### [THM03] Seconde principe et machines thermiques
+### [THM04] Statique des fluides
 
 
-### Champ électrique
-### Particule dans un champ électromagnétique
-### Champ magnétique
-### Induction
+### [MAG01] Champ électrique
+### [MAG02] Particule dans un champ électromagnétique
+### [MAG03] Champ magnétique
+### [MAG04] Induction
 
-### Réactions chimiques
-### Cinétique chimique
+
+### [CHI01] Fondamentaux de la chimie des solutions
+### [CHI02] Fondamentaux de la chimie en phase gazeuse
+### [CHI03] Réactions chimiques
+### [CHI04] Cinétique chimique

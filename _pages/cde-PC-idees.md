@@ -33,7 +33,12 @@ Par exemple :
   - faites faire à l'élève du calcul algébrique 
   - faites faire à l'élève des AN.
 
-- Proposez un "combat de conversion" : 
+* Donnez une loi exprimant une grandeur en fonction d'autres (ex : $$R = R_1 R_2 /(R_1+R_2)$$) et demandez à l'élève combien vaut $$R$$
+quand $$R_2 = (1+\alpha)R_1$$. C'est évidemment du calcul agébrique déguisé. Efforcez-vous dans ce cas de proposer des lois vraisemblables (voire réelles), avec des variables portant des noms "bien dimensionnés".
+
+* Demandez le minimmum ou le maximum d'une fonction trinôme du second degré. Par exemple : $$R(\alpha) = 2R_0 \alpha^2 - 3R_0 \alpha + R_0$$ : pour quelle valeur de $$\alpha_0$$ de $$\alpha$$ la résistance $$R(\alpha)$$ est-elle minimale ? Que vaut alors $$R(\alpha_0)$$ ?
+
+* Proposez un "combat de conversion" : 
   - entre 1 million de km et 1 minute lumière, qui est le plus long ? 
   - entre 3g dans 50cl et 1kg dans 1m^3, qui est le plus concentré ?
 

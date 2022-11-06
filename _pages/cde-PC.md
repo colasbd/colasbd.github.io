@@ -18,15 +18,15 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 
 ---
 
-- [Avancement du livre]({{ site.baseurl }}{% link _pages/cde-PC-avancement.md %})
+- [Avancement du CdE]({{ site.baseurl }}{% link _pages/cde-PC-avancement.md %})
 - [En manque d'inspiration : des idées pour trouver des entraînements]({{ site.baseurl }}{% link _pages/cde-PC-idees.md %})
 
 ---
 
 # Fichiers d'aide et d'information
 
-- [Vademecum LaTeX](vademecum_LaTeX_v1.pdf) (v1)
-- [L'introduction du CdE](introduction_CdE_PC_v1.pdf) (v1)
+- [Vademecum LaTeX](vademecum_LaTeX_v2.pdf) (v2)
+- [L'introduction du CdE](introduction_CdE_PC_v2.pdf) (v2)
 - [Premiers pas pour créer une fiche](documentation_CdE_PC_v1.pdf) (v1)
 - [Le Zoom de présentation du 31/10/22](https://youtu.be/QzbzCrMlTi0)
 
@@ -42,12 +42,12 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 
 # Un exemple de fiche : le PFD
 
-- [le PDF](fiche_MCA02_JRL_v1.pdf) (v1)
-- [les sources LaTeX zippés](fiche_MCA02_v1.zip) (v1)
+- [le PDF](fiche_MCA02_CBD_v3.pdf) (v3)
+- [les sources LaTeX zippés](fiche_MCA02_CBD_v3.zip) (v3)
 
 ---
 
 # Le projet portable
 
-- [Le dossier zippé pour faire une fiche](Projet_CdE_PC_portable_v2.zip) (v2)
+- [Le dossier zippé pour faire une fiche](Projet_CdE_PC_portable_v3.zip) (v3)
 
