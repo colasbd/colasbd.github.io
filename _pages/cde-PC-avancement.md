@@ -32,7 +32,7 @@ title: "CdE PC : avancement du livre"
 ### [MCA02] PFD
 
 - *auteur* : Jimmy Roussel
-- *fichier* : [fiche_MCA02_CBD_v1.pdf](fiche_MCA02_JRL_v1.pdf)
+- *fichier* : [fiche_MCA02_CBD_v3.pdf](fiche_MCA02_CBD_v3.pdf)
 
 ### [MCA03] Approche énergétique en mécanique
 ### [MCA04] Moment cinétique
