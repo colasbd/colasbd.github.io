@@ -31,7 +31,7 @@ title: "CdE PC : avancement du livre"
 ### [MCA01] Cinématique
 ### [MCA02] PFD
 
-- *auteur* : Jimmy Roussel
+- *auteur* : Jimmy ROUSSEL
 - *fichier* : [fiche_MCA02_CBD_v3.pdf](fiche_MCA02_CBD_v3.pdf)
 
 ### [MCA03] Approche énergétique en mécanique
@@ -47,6 +47,13 @@ title: "CdE PC : avancement du livre"
 ### [ELC03] Étude des filtres
 ### [ELC04] Énergie et puissance électrique
 ### [ELC05] ALI
+
+- *auteur* : Jean-Christophe IMBERT
+- *fichier* : [fiche_ELC05_CBD_v2.pdf](fiche_ELC05_CBD_v2.pdf)
+
+
+ 
+
 
 
 ### [THM01] Le gaz parfait
