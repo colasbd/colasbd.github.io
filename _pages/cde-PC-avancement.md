@@ -44,6 +44,7 @@ title: "CdE PC : avancement du livre"
 
 ### [ELC01] Étude des circuits électriques I
 
+- *les idées de Claire* : [idees_Claire_ELC01_v1.pdf](idees_Claire_ELC01_v1.pdf)
 - *auteur* : Jimmy ROUSSEL
 - *fichier* : [fiche_ELC01_JRL_v1.pdf](fiche_ELC01_JRL_v1.pdf)
 
