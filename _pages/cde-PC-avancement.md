@@ -43,6 +43,10 @@ title: "CdE PC : avancement du livre"
 
 
 ### [ELC01] Étude des circuits électriques I
+
+- *auteur* : Jimmy ROUSSEL
+- *fichier* : [fiche_ELC01_JRL_v1.pdf](fiche_ELC01_JRL_v1.pdf)
+
 ### [ELC02] Étude des circuits électriques II
 ### [ELC03] Étude des filtres
 ### [ELC04] Énergie et puissance électrique
