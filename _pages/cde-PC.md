@@ -25,7 +25,7 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 
 # Fichiers d'aide et d'information
 
-- [Vademecum LaTeX](vademecum_LaTeX_v2.pdf) (v2)
+- [Vademecum LaTeX](vademecum_LaTeX_v3.pdf) (v3)
 - [L'introduction du CdE](introduction_CdE_PC_v2.pdf) (v2)
 - [Premiers pas pour créer une fiche](documentation_CdE_PC_v1.pdf) (v1)
 - [Le Zoom de présentation du 31/10/22](https://youtu.be/QzbzCrMlTi0)
