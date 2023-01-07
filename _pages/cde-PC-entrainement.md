@@ -11,7 +11,7 @@ header:
 
 author_profile: no
 permalink: /cde-PC-idees/
-title: "Qu'est-ce qu'un entraînement ? Concept, conseils et exemples"
+title: "CdE PC : le concept d'entraînement"
 ---
 
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
