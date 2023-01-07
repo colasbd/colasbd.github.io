@@ -11,31 +11,12 @@ header:
 
 author_profile: no
 permalink: /cde-exemples-modeles/
-title: "CDE : Exemples-modèles de fiches d'entraînement"
+title: "CdE : Exemples-modèles de fiches"
 ---
 
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
 
 
-### [ELC01] Étude des circuits électriques I
-
-- *les idées de Claire* : [idees_Claire_ELC01_v1.pdf](idees_Claire_ELC01_v1.pdf)
-- *auteur* : Jimmy ROUSSEL
-- *fichier* : [fiche_ELC01_JRL_v1.pdf](fiche_ELC01_JRL_v1.pdf)
-
-
-### [GAL01] Conversions
-
-- *les idées de Claire* : [idees_Claire_GAL01_v1.pdf](idees_Claire_GAL01_v1.pdf)
-
-
-### [GAL03] Signal
-
-- *les idées de Claire* : [idees_Claire_GAL03_v1.pdf](idees_Claire_GAL03_v1.pdf)
-
-
-### [MCA02] PFD
-
-- *auteur* : Jimmy ROUSSEL
-- *fichier* : [fiche_MCA02_JRL_v4.pdf](fiche_MCA02_JRL_v4.pdf)
-
+- **[Étude des circuits électriques](fiche_ELC01_JRL_v1.pdf)** (Jimmy Roussel)
+<!-- - **[PFD](fiche_MCA02_JRL_v4.pdf)** (Jimmy Roussel) -->
+- **[Moment cinétique](fiche_MCA02_JRL_v4.pdf)** (Jean-Julien Fleck)
