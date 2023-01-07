@@ -10,8 +10,8 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
-permalink: /cde-PC-idees/
-title: "Qu'est-ce qu'un entraînement ? Concept, conseils et exemples"
+permalink: /cde-concept-entrainement/
+title: "CDE : Qu'est-ce qu'un entraînement ? Concept, conseils et exemples"
 ---
 
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
