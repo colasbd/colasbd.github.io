@@ -16,13 +16,15 @@ title: "CdE : Qu'est-ce qu'un entraînement ? Concept, conseils et exemples"
 
 *[Retour à la page principale]({{ site.baseurl }}{% link _pages/cde-PC.md %})*
 
-Un entraînement est d'une certaine façon un calcul effectué en contexte physique.
+Un entraînement est d'une certaine façon un calcul à effectuer dans un contexte physique.
 
-Il est généralement relatif à une compétence transversale qui sera utile dans tous les chapitres étudiés par l'élève ou en tout cas dans beaucoup de chapitre.
+Il est généralement relatif à une compétence transversale qui sera utile dans de nombreux chapitres.
 
-Il ne doit pas être difficile, il ne doit pas nécessiter de réflexion, il doit être simple (attention en revanche, il ne doit pas être évident).
+Il ne doit pas être difficile, il ne doit pas nécessiter de réflexion, il doit être simple (en revanche, il ne doit pas être évident).
 
-Un entraînement figurant dans une fiche peut très bien ne pas être lié aux compétences associées spécifiquement à ce chapitre. Par exemple, un entraînement en optique peut très bien consister à faire quelques manipulations algébriques d'une formule du type $1/f_1 +1/f_2 = 1/f_3$. En fait, d'une certaine façon, c'est même presque la règle : un entraînement met en jeu des compétences transversales.
+Un entraînement figurant dans une fiche peut très bien ne pas être lié aux compétences associées spécifiquement à ce chapitre. 
+
+Par exemple, un entraînement en optique peut très bien consister à faire quelques manipulations algébriques d'une formule du type $$1/f_1 +1/f_2 = 1/f_3$$. En fait, d'une certaine façon, c'est même presque la règle : un entraînement met en jeu des compétences transversales.
 
 Voici des conseils et exemples d'entraînement.
 
