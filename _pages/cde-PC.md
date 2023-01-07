@@ -19,7 +19,7 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 ---
 
 - [Des exemples-modèles de fiches]({{ site.baseurl }}{% link _pages/cde-PC-exemples-modeles.md %})
-- [Qu'est-ce qu'un entraînement ? Concept, conseils et exemples]({{ site.baseurl }}{% link _pages/cde-PC-entrainement %})
+- [Qu'est-ce qu'un entraînement ? Concept, conseils et exemples]({{ site.baseurl }}{% link _pages/cde-PC-concept-entrainement.md %})
 
 ---
 
