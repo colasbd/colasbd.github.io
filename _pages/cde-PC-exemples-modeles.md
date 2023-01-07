@@ -10,7 +10,7 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
-permalink: /cde-exemples-modele/
+permalink: /cde-exemples-modeles/
 title: "CDE : Exemples-modèles de fiches d'entraînement"
 ---
 

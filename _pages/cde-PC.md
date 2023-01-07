@@ -18,7 +18,7 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 
 ---
 
-- [Des exemples-modèles de fiches]({{ site.baseurl }}{% link _pages/cde-PC-exemples.md %})
+- [Des exemples-modèles de fiches]({{ site.baseurl }}{% link _pages/cde-PC-exemples-modeles.md %})
 - [Qu'est-ce qu'un entraînement ? Concept, conseils et exemples]({{ site.baseurl }}{% link _pages/cde-PC-entrainement %})
 
 ---
@@ -38,12 +38,6 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 - Si vous ne maîtrisez pas TikZ, envoyez-moi une photo d'une figure faite à la main que vous souhaitez insérer. Une description de la figure n'est pas suffisante, il faut vraiment un dessin de la figure que vous souhaitez.
 - Utilisez trigrammes et versionning également pour les figures TikZ. Dans la mesure du possible, créez des fichiers séparés, comme dans les exemples donnés dans le "Projet CdE-PC portable".
 
----
-
-# Un exemple de fiche : le PFD
-
-- [le PDF](fiche_MCA02_CBD_v3.pdf) (v3)
-- [les sources LaTeX zippés](fiche_MCA02_CBD_v3.zip) (v3)
 
 ---
 
