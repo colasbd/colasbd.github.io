@@ -19,4 +19,4 @@ title: "CdE : Exemples-modèles de fiches"
 
 - **[Étude des circuits électriques](fiche_ELC01_JRL_v1.pdf)** (Jimmy Roussel)
 <!-- - **[PFD](fiche_MCA02_JRL_v4.pdf)** (Jimmy Roussel) -->
-- **[Moment cinétique](fiche_MCA02_JRL_v4.pdf)** (Jean-Julien Fleck)
+- **[Moment cinétique](fiche_MCA04_JJF_v1)** (Jean-Julien Fleck)
