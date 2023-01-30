@@ -43,4 +43,4 @@ title: "Cahier d'entraînement aux compétences fondamentales en physique-chimie
 
 # Le projet portable
 
-- [Le dossier zippé pour faire une fiche](Projet_CdE_PC_portable_v7.zip) (v7)
+- [Le dossier zippé pour faire une fiche](Projet_CdE_PC_portable_v8.zip) (v8)
