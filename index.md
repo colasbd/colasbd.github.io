@@ -43,7 +43,7 @@ Je collabore régulièrement à la *RMS*.
 
 
 ## Vidéos d'exercices corrigés
-Ces vidéos ont été réalisées pendant le confinement de mars-juin 2020, à l'intention de mes élèves de PCSI du [lycée Sainte-Geneviève](https://www.bginette.com/).
+Ces vidéos ont été réalisées pendant le confinement de mars-juin 2020.
 - [Vidéos d'exercices corrigés](https://www.youtube.com/playlist?list=PLXbwGLiLTeqxQ95WFm0YuBeFCa27H5xKV)
 
 
