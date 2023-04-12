@@ -14,7 +14,7 @@ permalink: /documents-de-cours/
 title: "Documents de cours"
 ---
 
-*Voici quelques-uns des documents de cours donnés à mes élèves de PCSI du [lycée Sainte-Geneviève](https://www.bginette.com).*
+*Voici quelques-uns des documents de cours donnés à mes élèves.*
 
 
 ### 2020/2021
