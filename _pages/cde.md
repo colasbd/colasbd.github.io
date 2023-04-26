@@ -26,7 +26,7 @@ Le cahier d'entraînement est destiné aux élèves de première année Post-Bac
 
 ---
 
-*La dernière version du cahier de calcul est la version 1.0.0.*
+*La dernière version du cahier d'entraînement est la version 1.0.0.*
 
 ---
 
