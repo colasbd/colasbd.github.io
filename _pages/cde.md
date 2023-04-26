@@ -44,4 +44,4 @@ Voici les conditions d'utilisation et de partage de ce document :
 Colas Bardavid et [Jimmy Roussel](https://femto-physique.fr) 
 
 ### Participants
-Vincent Bayle, Romain Basson, Olivier Bertrand, Ménard Bourgade, Julien Bureaux, Alain Camanes, Mathieu Charlot, Mathilde Colin de Verdière, Keven Commault, Miguel Concy, Rémy Eupherte, Hélène Gros, Audrey Hechner, Florian Hechner, Marie Hézard, Nicolas Laillet, Valérie Le Blanc, Thierry Limoges, Quang-Thai Ngo, Xavier Pellegrin, Fabien Pellegrini, Jean-Louis Pourtier, Valérie Robert, Jean-Pierre Técourt, Guillaume Tomasini, Marc Tenti.
+Stéphane Bargot, Claire Boggio, Cécile Bonnand, Alexis Brès, Geoffroy Burgunder, Erwan Capitaine, Caroline Chevalier, Maxime Defosseux, Raphaëlle Delagrange, Alexis Drouard, Gaelle Dumas, Alexandre Fafin, Jean-Julien Fleck, Aéla Fortun, Florence Goutverg, Chahira Hajlaoui, Mathieu Hebding, Quinot Isabelle, Lucas Henry, Didier Hérisson, Jean-Christophe Imbert, Fanny Jospitre, Tom Kristensen, Emmanuelle Laage, Catherine Lavainne, Maxence Miguel-Brebion, Anne-Sophie Moreau, Louis Péault, Valentin Quint, Alain Robichon, Caroline Rossi-Gendron, Nancy Saussac, Anthony Yip
