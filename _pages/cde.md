@@ -14,9 +14,9 @@ permalink: /cde/
 title: "Le cahier d'entraînement en physique-chimie"
 ---
 
-![cahier de calcul](/assets/images/image_cde.jpg)
+<!--![cahier de calcul](/assets/images/image_cde.jpg)
 
-Vous pourrez bientôt acheter la version éditée par Dunod du *cahier d'entraînement en physique-chimie*. Le prix sera très abordable et le format très pratique.
+Vous pourrez bientôt acheter la version éditée par Dunod du *cahier d'entraînement en physique-chimie*. Le prix sera très abordable et le format très pratique.-->
 
 Le cahier d'entraînement est destiné aux élèves de première année Post-Bac. Il permet aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique/chimie. Ce travail a été réalisé collectivement par plus d'une trentaine de professeurs en classes préparatoires.
 - [Énoncés seuls](cahier_d_entrainement_PC_enonces_v1-0-0.pdf)
