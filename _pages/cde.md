@@ -14,7 +14,7 @@ permalink: /cde/
 title: "Le cahier d'entraînement en physique-chimie"
 ---
 
-[cahier d'entraînement](/assets/images/image_cde.jpg)
+![cahier d'entraînement](/assets/images/image_cde.jpg)
 
 Vous pourrez d'ici quelques jours acheter la version éditée par Dunod du *cahier d'entraînement en physique-chimie*. Le prix sera très abordable et le format très pratique.
 
