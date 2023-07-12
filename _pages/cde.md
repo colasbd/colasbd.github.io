@@ -16,7 +16,7 @@ title: "Le cahier d'entraînement en physique-chimie"
 
 ![cahier d'entraînement](/assets/images/image_cde.jpg)
 
-Vous pouvez [acheter la version éditée](https://www.amazon.fr/Cahier-dentrainement-physique-chimie-Classes-prépas/dp/2100854224/) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
+Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
 
 **Le cahier d'entraînement en physique-chimie** est destiné aux élèves de première année post-Bac. Il permet aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. Ce travail a été réalisé collectivement par plus d'une trentaine de professeurs en classes préparatoires.
 
