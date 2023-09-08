@@ -16,6 +16,10 @@ title: "Documents de cours"
 
 *Voici quelques-uns des documents de cours donnés à mes élèves.*
 
+### 2023/2024
+- [Éléments de rédaction mathématiques](éléments_de_rédaction_mathématiques.pdf)
+
+
 ### 2022/2023
 - [Familles sommables](cours_CB_familles_sommables.pdf)
 
