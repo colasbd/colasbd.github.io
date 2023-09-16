@@ -39,7 +39,7 @@ J'ai commencé à donner en septembre 2020 un cours sur la théorie de catégori
 ## Recherches
 Ma thèse portait sur des questions de géométrie algébrique, de théorie de Galois différentielle et de théorie des catégories.  
 En plus de ces sujets, je m'intéresse à la théorie des types.  
-Je collabore régulièrement à la *RMS*.  
+<!-- Je collabore régulièrement à la *RMS*.  -->
 - [Publications]({{ site.baseurl }}{% link _pages/publications.md %})
 
 
