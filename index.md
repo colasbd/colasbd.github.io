@@ -32,7 +32,7 @@ Vous trouverez sur cette page des documents et ressources en mathématiques et e
 
 
 ## Cours sur les catégories
-J'ai commencé à donner en septembre 2020 un cours sur la théorie de catégories dont le but est l'interprétation topossique des méthodes de forcing de Cohen.
+J'ai commencé à donner en septembre 2020 un cours sur la théorie de catégories dont le but est l'interprétation topossique des méthodes de forcing de Cohen. Ce projet est pour l'instant à l'arrêt.
 - [Cours sur les catégories]({{ site.baseurl }}{% link _pages/cours_categories.md %})
 
 
