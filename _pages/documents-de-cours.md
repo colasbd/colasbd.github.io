@@ -17,7 +17,7 @@ title: "Documents de cours"
 *Voici quelques-uns des documents de cours donnés à mes élèves.*
 
 ### 2023/2024
-- [Éléments de rédaction mathématique](éléments_de_rédaction_mathématique.pdf)
+- [Éléments de rédaction mathématique](ERM.pdf)
 
 
 ### 2022/2023
