@@ -10,6 +10,6 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
-permalink: /cdc/
+permalink: /cdc-lycee/
 title: "Le cahier de calcul pour le lycée"
 ---
