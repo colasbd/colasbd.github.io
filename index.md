@@ -19,12 +19,14 @@ excerpt: "Documents de mathématiques"
 Vous trouverez sur cette page des documents et ressources en mathématiques et en informatique.
 <!-- qui pourront être utiles aux étudiants, aux enseignants et aux personnes qui préparent les concours de l'enseignement.-->
 
+## Les cahiers d'entraînements
+- [Les cahiers de calcul pour le lycée]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
+- [Le cahier d'entraînement en physique/chimie]({{ site.baseurl }}{% link _pages/cde.md %})
+- [Le cahier de calcul en maths]({{ site.baseurl }}{% link _pages/cdc.md %})
 
 ## Documents pédagogiques
 <!-- - [Devoirs surveillés]({{ site.baseurl }}{% link _pages/ds.md %})
 - [Devoirs à la maison]({{ site.baseurl }}{% link _pages/dm.md %}) -->
-- [Le cahier d'entraînement en physique/chimie]({{ site.baseurl }}{% link _pages/cde.md %})
-- [Le cahier de calcul en maths]({{ site.baseurl }}{% link _pages/cdc.md %})
 - [Documents de cours]({{ site.baseurl }}{% link _pages/documents-de-cours.md %})
 - [Autres documents]({{ site.baseurl }}{% link _pages/autres-documents.md %})
 - [Anciens documents]({{ site.baseurl }}{% link _pages/anciens-documents.md %})
