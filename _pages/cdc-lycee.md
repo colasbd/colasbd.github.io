@@ -3,7 +3,7 @@ layout: myBasicLayout
 
 header:
   show_overlay_excerpt: false
-  overlay_image: /assets/images/backgrounds/header_6.jpg
+  overlay_image: /assets/images/backgrounds/header-geometrique_1.jpg
   #overlay_image: /assets/images/milky-way.jpg
   #caption: "" #Voie lactée"
   #overlay_filter: rgba(1, 17, 47, 0.2)
@@ -16,9 +16,12 @@ title: "Les cahiers de calcul pour le lycée"
 
 Les cahiers de calcul, destinés aux lycéens en classe de **Première** et **Terminale**, permettent aux élèves de s'entraîner en autonomie à la pratique du calcul. 
 
-- [Le cahier de calcul • Première Spécialité •](cahier_de_calcul_Premiere_Specialite_v1.3.0.pdf) 
-- [Le cahier de calcul • Terminale Spécialité •](cahier_de_calcul_Terminale_Specialite_v1.2.0.pdf)
-- [Le cahier de calcul • Mathématiques Expertes •](cahier_de_calcul_Maths_Expertes_v1.2.0.pdf)
+![cahier de calcul](/assets/images/couverture_Premiere_Specialite.jpg)
+
+
+- [Le cahier de calcul - Première Spécialité](cahier_de_calcul_Premiere_Specialite_v1.3.0.pdf) 
+- [Le cahier de calcul - Terminale Spécialité](cahier_de_calcul_Terminale_Specialite_v1.2.0.pdf)
+- [Le cahier de calcul - Mathématiques Expertes](cahier_de_calcul_Maths_Expertes_v1.2.0.pdf)
 
 ---
 
