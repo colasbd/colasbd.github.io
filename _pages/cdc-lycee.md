@@ -16,9 +16,9 @@ title: "Les cahiers de calcul pour le lycée"
 
 Les cahiers de calcul, destinés aux lycéens en classe de **Première** et **Terminale**, permettent aux élèves de s'entraîner en autonomie à la pratique du calcul. 
 
-- [Le cahier de calcul • Première Spécialité](cahier_de_calcul_Premiere_Specialite_v1.3.0.pdf) 
-- [Le cahier de calcul • Terminale Spécialité](cahier_de_calcul_Terminale_Specialite_v1.2.0.pdf)
-- [Le cahier de calcul • Mathématiques Expertes](cahier_de_calcul_Maths_Expertes_v1.2.0.pdf)
+- [Le cahier de calcul • Première Spécialité •](cahier_de_calcul_Premiere_Specialite_v1.3.0.pdf) 
+- [Le cahier de calcul • Terminale Spécialité •](cahier_de_calcul_Terminale_Specialite_v1.2.0.pdf)
+- [Le cahier de calcul • Mathématiques Expertes •](cahier_de_calcul_Maths_Expertes_v1.2.0.pdf)
 
 ---
 
