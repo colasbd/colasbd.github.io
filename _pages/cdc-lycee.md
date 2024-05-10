@@ -43,8 +43,8 @@ Benjamin GROUX<br>
 Marie HÉZARD<br>
 Nicolas LAILLET<br>
 Jason LAPEYRONNIE<br>
-Hadrien LAROME<br>
-Sandrine LAROME<br>
+Hadrien LARÔME<br>
+Sandrine LARÔME<br>
 François LAURENT<br>
 Landry LAVOINE<br>
 Blaise LE MEAUX<br>
