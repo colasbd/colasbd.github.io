@@ -60,13 +60,13 @@ Jérôme TROCHON
 
 ---
 
-Voici les conditions d'utilisation et de partage de ce document : 
-- Les versions PDF des cahiers de calcul sont librement diffusables par les professeurs auprès de leurs élèves.
+Voici les conditions d'utilisation et de partage de ces documents : 
+- Les versions PDF des cahiers de calcul sont librement diffusables par les professeurs auprès de leurs élèves, sous format papier ou PDF.
+- Les noms des coordinateurs et participants au projet doivent être indiqués.
 - Les participants au projet peuvent les mettre à disposition sur leur site web.
-- Le PDF et les sources LaTeX seront mis à disposition des membres de l'UPS via la BEDOC de l'UPS.
-- Les sources LaTeX ne sont pas diffusables hors BEDOC.
+- Les sources LaTeX sont mises à disposition des membres de l'UPS, via la BEDOC et le gitea de l'UPS.
+- Les sources LaTeX ne sont pas diffusables en dehors de la BEDOC et du gitea.
 - Le contenu des cahiers de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
-- Les noms des participants au projet sont indiqués en page 2 des cahiers de calcul.
 
 
 ---
