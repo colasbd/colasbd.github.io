@@ -72,6 +72,6 @@ Voici les conditions d'utilisation et de partage de ce document :
 ---
 
 Les dernières versions des cahiers de calcul sont :
-- 1.3.0 (pour Le cahier de calcul Première Spécialité), 
-- 1.2.0 (pour Le cahier de calcul Terminale Spécialité),
-- 1.2.0 (pour Le cahier de calcul Mathématiques Expertes).
+- 1.3.0 (pour le cahier de calcul Première Spécialité), 
+- 1.2.0 (pour le cahier de calcul Terminale Spécialité),
+- 1.2.0 (pour le cahier de calcul Mathématiques Expertes).
