@@ -11,10 +11,10 @@ header:
 
 author_profile: no
 permalink: /cdc/
-title: "Le cahier de calcul"
+title: "Le cahier de calcul pour la prépa"
 ---
 
-![cahier de calcul](/assets/images/image_cdc.jpg)
+[![cahier de calcul](/assets/images/image_cdc.jpg)](https://www.amazon.fr/Cahier-calcul-maths-Classes-prépas/dp/2100861204/)
 
 Vous pouvez [acheter la version éditée](https://www.amazon.fr/Cahier-calcul-maths-Classes-prépas/dp/2100861204/) par Dunod du *cahier de calcul*. Le prix est très abordable et le format très pratique.
 
