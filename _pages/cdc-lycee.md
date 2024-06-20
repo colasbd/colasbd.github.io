@@ -16,7 +16,9 @@ title: "Les cahiers de calcul pour le lycée"
 
 Les cahiers de calcul, destinés aux lycéens en classe de **Première** et **Terminale**, permettent aux élèves de s'entraîner en autonomie à la pratique du calcul. 
 
-![cahier de calcul](/assets/images/couverture_Premiere_Specialite.jpg)
+Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en-maths-terminale-specialite-maths-et-maths-expertes) par Dunod. Le prix est très abordable et le format très pratique.
+
+[![cahier de calcul](/assets/images/couverture_Premiere_Specialite.jpg)](https://www.dunod.com/cahier-calcul-en-maths-terminale-specialite-maths-et-maths-expertes)
 
 
 - [Le cahier de calcul - Première Spécialité](cahier_de_calcul_Premiere_Specialite_v1.3.0.pdf) 
