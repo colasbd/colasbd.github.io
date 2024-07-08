@@ -21,9 +21,9 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en
 [![cahier de calcul](/assets/images/couverture_Premiere_Specialite.jpg)](https://www.dunod.com/cahier-calcul-en-maths-terminale-specialite-maths-et-maths-expertes)
 
 
-- [Le cahier de calcul - Première Spécialité](cahier_de_calcul_Premiere_Specialite_v1.3.0.pdf) 
-- [Le cahier de calcul - Terminale Spécialité](cahier_de_calcul_Terminale_Specialite_v1.2.0.pdf)
-- [Le cahier de calcul - Mathématiques Expertes](cahier_de_calcul_Maths_Expertes_v1.2.0.pdf)
+- [Le cahier de calcul - Première Spécialité](cahier_de_calcul_Premiere_Specialite_v1.4.0.pdf) 
+- [Le cahier de calcul - Terminale Spécialité](cahier_de_calcul_Terminale_Specialite_v1.4.0.pdf)
+- [Le cahier de calcul - Mathématiques Expertes](cahier_de_calcul_Maths_Expertes_v1.4.0.pdf)
 
 ---
 
@@ -77,6 +77,6 @@ Voici les conditions d'utilisation et de partage de ces documents :
 ---
 
 Les dernières versions des cahiers de calcul sont :
-- 1.3.0 (pour le cahier de calcul Première Spécialité), 
-- 1.2.0 (pour le cahier de calcul Terminale Spécialité),
-- 1.2.0 (pour le cahier de calcul Mathématiques Expertes).
+- 1.4.0 (pour le cahier de calcul Première Spécialité), 
+- 1.4.0 (pour le cahier de calcul Terminale Spécialité),
+- 1.4.0 (pour le cahier de calcul Mathématiques Expertes).
