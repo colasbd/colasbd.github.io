@@ -14,7 +14,7 @@ permalink: /cde/
 title: "Le cahier d'entraînement en physique-chimie pour la prépa"
 ---
 
-[![cahier d'entraînement](/assets/images/image_cde.jpg)](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas)
+[![cahier d'entraînement](/assets/images/image_cde_BIG.jpg){:width="500px"}](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas)
 
 Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
 

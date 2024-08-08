@@ -3,7 +3,7 @@ layout: myBasicLayout
 
 header:
   show_overlay_excerpt: false
-  overlay_image: /assets/images/backgrounds/header-geometrique_2.jpg
+  overlay_image: /assets/images/backgrounds/header_11.jpg
   #overlay_image: /assets/images/milky-way.jpg
   #caption: "" #Voie lactée"
   #overlay_filter: rgba(1, 17, 47, 0.2)

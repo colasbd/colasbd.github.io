@@ -18,7 +18,8 @@ Les cahiers de calcul, destinés aux lycéens en classe de **Première** et **Te
 
 Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en-maths-terminale-specialite-maths-et-maths-expertes) par Dunod. Le prix est très abordable et le format très pratique.
 
-[![cahier de calcul](/assets/images/couverture_Premiere_Specialite.jpg)](https://www.dunod.com/cahier-calcul-en-maths-terminale-specialite-maths-et-maths-expertes)
+[![cahier de calcul](/assets/images/couverture_CdC_lycee_Tale.jpeg){:width="500px"}](https://www.dunod.com/cahier-calcul-en-maths-terminale-specialite-maths-et-maths-expertes)
+
 
 
 - [Le cahier de calcul - Première Spécialité](cahier_de_calcul_Premiere_Specialite_v1.4.1.pdf) 
