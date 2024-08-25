@@ -19,14 +19,14 @@ title: "Le cahier de calcul pour la prépa"
 Vous pouvez [acheter la version éditée](https://www.amazon.fr/Cahier-calcul-maths-Classes-prépas/dp/2100861204/) par Dunod. Le prix est très abordable et le format très pratique.
 
 Le cahier de calcul est destiné aux élèves de première année post-Bac. Il permet aux élèves de s'entraîner en autonomie à la pratique du calcul. Ce travail a été réalisé collectivement par une trentaine de professeurs en classes préparatoires.
-- [Énoncés seuls](cahier_de_calcul_enonces_v1.2.1.pdf)
-- [Réponses seules](cahier_de_calcul_reponses_v1.2.1.pdf)
-- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v1.2.1.pdf)
-- [Énoncés, réponses et corrigés](cahier_de_calcul_v1.2.1.pdf)
+- [Énoncés seuls](cahier_de_calcul_enonces_v1.2.2.pdf)
+- [Réponses seules](cahier_de_calcul_reponses_v1.2.2.pdf)
+- [Réponses et corrigés seuls](cahier_de_calcul_corriges_v1.2.2.pdf)
+- [Énoncés, réponses et corrigés](cahier_de_calcul_v1.2.2.pdf)
 
 ---
 
-*La dernière version du cahier de calcul est la version 1.2.1.*
+*La dernière version du cahier de calcul est la version 1.2.2.*
 
 ---
 
