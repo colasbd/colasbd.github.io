@@ -17,7 +17,7 @@ title: "Documents de cours"
 *Voici quelques-uns des documents de cours donnés à mes élèves.*
 
 ### 2023/2024
-- [Règles de rédaction mathématique](regles_de_redaction_mathematique_v2.pdf)
+- [Manuel de rédaction mathématique](manuel_de_redaction_mathematique_v3.pdf)
 
 
 ### 2022/2023
