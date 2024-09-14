@@ -3,7 +3,7 @@ layout: myBasicLayout
 
 header:
   show_overlay_excerpt: false
-  overlay_image: /assets/images/backgrounds/header-geometrique_ESCHER_1.jpg
+  overlay_image: /assets/images/backgrounds/header-geometrique_ESCHER_3.jpg
   #overlay_image: /assets/images/milky-way.jpg
   #caption: "#Voie lactée"
   #overlay_filter: rgba(1, 17, 47, 0.2)
@@ -20,11 +20,12 @@ title: "Le cahier d'entraînement en physique-chimie pour les deuxièmes années
 Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
 -->
 
-Ce cahier d'entraînement est destiné aux élèves de deuxième année post-Bac. Il permet aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. Ce travail a été réalisé collectivement par plus de quarante de professeurs en classes préparatoires.
+Ce cahier d'entraînement est destiné aux **élèves de deuxième année** post-Bac. Il permet aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. 
+
+Ce travail a été réalisé collectivement par plus de quarante de professeurs en classes préparatoires, dans toutes les filières.
 
 
 Pour les classes prépa générales :
-
 - [la version MP/MP*](cahier_d_entrainement_PC_1.2.0.pdf)
 - [la version MPI/MPI*](cahier_d_entrainement_PC_1.2.0.pdf)
 - [la version PC/PC*](cahier_d_entrainement_PC_1.2.0.pdf)
@@ -32,16 +33,15 @@ Pour les classes prépa générales :
 - [la version PT/PT*](cahier_d_entrainement_PC_1.2.0.pdf)
 
 Pour les classes prépa technologiques :
-
-- [la version ATS](cahier_d_entrainement_PC_1.2.0.pdf)
 - [la version TSI2](cahier_d_entrainement_PC_1.2.0.pdf)
 - [la version TPC2](cahier_d_entrainement_PC_1.2.0.pdf)
 
-Pour les professeurs, le document qui rassemblent tous les entraînements pour toutes les classes :
+Pour les classes prépa ATS :
+- [la version ATS](cahier_d_entrainement_PC_1.2.0.pdf)
 
-- [Énoncés seuls](cahier_d_entrainement_PC_enonces_1.2.0.pdf)
-- [Réponses seules](cahier_d_entrainement_PC_reponses_1.2.0.pdf)
-- [Réponses et corrigés seuls](cahier_d_entrainement_PC_corriges_1.2.0.pdf)
+Pour les professeurs, le document qui rassemble tous les entraînements pour toutes les classes :
+- [la version intégrale](CdE_PC_2_ALL.pdf)
+
 
 ---
 
