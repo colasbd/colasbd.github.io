@@ -11,7 +11,7 @@ header:
 
 author_profile: no
 permalink: /cde-2/
-title: "Le cahier d'entraînement en physique-chimie pour les deuxièmes années de prépa"
+title: "Les cahiers d'entraînement en physique-chimie pour les deuxièmes années de prépa"
 ---
 
 <!--
@@ -26,26 +26,26 @@ Ce travail a été réalisé collectivement par plus de quarante de professeurs 
 
 
 Pour les classes prépa générales :
-- [la version MP/MP*](cahier_d_entrainement_PC_1.2.0.pdf)
-- [la version MPI/MPI*](cahier_d_entrainement_PC_1.2.0.pdf)
-- [la version PC/PC*](cahier_d_entrainement_PC_1.2.0.pdf)
-- [la version PSI/PSI*](cahier_d_entrainement_PC_1.2.0.pdf)
-- [la version PT/PT*](cahier_d_entrainement_PC_1.2.0.pdf)
+- [la version MP/MP*](CdE_PC_2_MP.pdf)
+- [la version MPI/MPI*](CdE_PC_2_MPI.pdf)
+- [la version PC/PC*](CdE_PC_2_PC.pdf)
+- [la version PSI/PSI*](CdE_PC_2_PSI.pdf)
+- [la version PT/PT*](CdE_PC_2_PT.pdf)
 
 Pour les classes prépa technologiques :
-- [la version TSI2](cahier_d_entrainement_PC_1.2.0.pdf)
-- [la version TPC2](cahier_d_entrainement_PC_1.2.0.pdf)
+- [la version TSI2](CdE_PC_2_TSI2.pdf)
+- [la version TPC2](CdE_PC_2_TPC2.pdf)
 
 Pour les classes prépa ATS :
-- [la version ATS](cahier_d_entrainement_PC_1.2.0.pdf)
+- [la version ATS](CdE_PC_2_ATS.pdf)
 
-Pour les professeurs, le document qui rassemble tous les entraînements pour toutes les classes :
+Pour les professeurs, le document qui rassemble tous les entraînements, pour toutes les classes :
 - [la version intégrale](CdE_PC_2_ALL.pdf)
 
 
 ---
 
-*La dernière version du cahier d'entraînement est la version 1.2.0.*
+*La dernière version du cahier d'entraînement est la version 0.0.14.*
 
 ---
 
@@ -63,4 +63,4 @@ Voici les conditions d'utilisation et de partage de ce document :
 Colas Bardavid et Catherine Lavainne 
 
 ### Participants
-Steve Arnefaux, Stéphane Bargot, Chloé Barraud, Fabien Baudribos, Laurent Beau, Julien Bellier, Lionel Beluze, Marc Beutier, Ariane Beyrath, Allan Bildé, Guillaume Blot-Teyssedre, Olivier Boinot-Turpault, Cécile Bonnand, Alexis Brès, Frederic Bruneau, Geoffroy Burgunder, Erwan Capitaine, Vincent Combette, Guillaume Davieau, Jean-Marie Delorme, Frédéric Desforges, Alexis Drouard, Hervé George, Florence Goutverg, Mathieu Hebding, Lucas Henry, Didier Hérisson, Fanny Jospitre, Joris Laleque, Catherine Lavainne, Alain Lombard, Louis Péault, Gwenaël Raillet, Mathieu Rigaut, Alain Robichon, Renaud Ruamps, Pierre-Simon Saulue, Théo Tassin, Étienne Thibierge, Delphine Viandier, Anthony Yip
+Steve Arnefaux, Stéphane Bargot, Chloé Barraud, Fabien Baudribos, Laurent Beau, Julien Bellier, Lionel Beluze, Marc Beutier, Ariane Beyrath, Allan Bildé, Guillaume Blot-Teyssedre, Olivier Boinot-Turpault, Cécile Bonnand, Alexis Brès, Frédéric Bruneau, Geoffroy Burgunder, Erwan Capitaine, Vincent Combette, Guillaume Davieau, Jean-Marie Delorme, Frédéric Desforges, Alexis Drouard, Hervé George, Florence Goutverg, Mathieu Hebding, Lucas Henry, Didier Hérisson, Fanny Jospitre, Joris Laleque, Catherine Lavainne, Alain Lombard, Louis Péault, Gwenaël Raillet, Mathieu Rigaut, Alain Robichon, Renaud Ruamps, Pierre-Simon Saulue, Théo Tassin, Étienne Thibierge, Delphine Viandier, Anthony Yip
