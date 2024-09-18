@@ -20,7 +20,7 @@ title: "Les cahiers d'entraînement en physique-chimie pour les deuxièmes anné
 Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
 -->
 
-Ce cahier d'entraînement est destiné aux **élèves de deuxième année** post-Bac. Il permet aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. 
+Ces cahiers d'entraînement sont destinés aux **élèves de deuxième année** post-Bac. Ils permettent aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. 
 
 Ce travail a été réalisé collectivement par plus de quarante de professeurs en classes préparatoires, dans toutes les filières.
 
