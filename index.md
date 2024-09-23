@@ -21,7 +21,8 @@ Vous trouverez sur cette page des documents et ressources en mathématiques et e
 
 ## Les cahiers d'entraînements
 - [Les cahiers de calcul pour le lycée]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
-- [Le cahier d'entraînement en physique/chimie pour la prépa]({{ site.baseurl }}{% link _pages/cde.md %})
+- [Le cahier d'entraînement en physique/chimie pour les deuxièmes années]({{ site.baseurl }}{% link _pages/cde-2.md %})
+- [Le cahier d'entraînement en physique/chimie pour les premières années]({{ site.baseurl }}{% link _pages/cde.md %})
 - [Le cahier de calcul en maths pour la prépa]({{ site.baseurl }}{% link _pages/cdc.md %})
 
 ## Documents pédagogiques
