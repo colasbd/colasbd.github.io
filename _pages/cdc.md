@@ -35,6 +35,7 @@ Voici les conditions d'utilisation et de partage de ce document :
 - Les participants au projet peuvent le rendre disponible sur leur site web.
 - Le PDF et les sources LaTeX seront mis à disposition des membres de l'UPS via la BEDOC de l'UPS.
 - Les sources LaTeX ne sont pas diffusables hors BEDOC.
+- Les sources sont mises à disposition pour que les professeurs puissent adapter le cahier à leur classe, par exemple en enlevant un exercice, etc. En revanche, les sources ne sont pas mises à disposition pour servir de base à un autre projet.
 - Le contenu du cahier de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
 - Les noms des participants au projet sont indiqués en page 2 du cahier de calcul.
 

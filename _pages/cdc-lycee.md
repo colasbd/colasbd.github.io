@@ -72,6 +72,7 @@ Voici les conditions d'utilisation et de partage de ces documents :
 - Les participants au projet peuvent les mettre à disposition sur leur site web.
 - Les sources LaTeX sont mises à disposition des membres de l'UPS, via la BEDOC et le gitea de l'UPS.
 - Les sources LaTeX ne sont pas diffusables en dehors de la BEDOC et du gitea.
+- Les sources sont mises à disposition pour que les professeurs puissent adapter le cahier à leur classe, par exemple en enlevant un exercice, etc. En revanche, les sources ne sont pas mises à disposition pour servir de base à un autre projet.
 - Le contenu des cahiers de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
 
 
