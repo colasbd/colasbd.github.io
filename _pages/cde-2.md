@@ -22,7 +22,7 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/
 
 Ces cahiers d'entraînement sont destinés aux **élèves de deuxième année** post-Bac. Ils permettent aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. 
 
-Ce travail a été réalisé collectivement par plus de quarante de professeurs en classes préparatoires, dans toutes les filières.
+Ce travail a été réalisé collectivement par plus de quarante professeurs en classes préparatoires, dans toutes les filières.
 
 
 Pour les classes prépa générales :
@@ -45,7 +45,7 @@ Pour les professeurs, le document qui rassemble tous les entraînements, pour to
 
 ---
 
-*La dernière version du cahier d'entraînement est la version 1.0.0.*
+*La dernière version du cahier d'entraînement est la version 1.2.0.*
 
 ---
 
