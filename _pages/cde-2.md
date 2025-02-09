@@ -51,6 +51,7 @@ Pour les professeurs, le document qui rassemble tous les entraînements, pour to
 
 Voici les conditions d'utilisation et de partage de ce document : 
 - La version PDF du cahier d'entraînement est librement diffusable par les professeurs auprès de leurs élèves, sous format papier ou PDF.
+- Le PDF ou le document imprimé mis à disposition par le professeur doit faire figurer le QR-code figurant page ii du PDF (ce QR-code permet d'accéder au site web du cahier d'entraînement).
 - Les noms des coordinateurs et participants doivent être indiqués.
 - Les participants au projet peuvent le rendre disponible sur leur site web.
 - Les sources LaTeX sont mises à disposition des membres de l'UPS, via la BEDOC de l'UPS.
