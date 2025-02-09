@@ -18,8 +18,9 @@ Je m'appelle Colas Bardavid.
 Vous pouvez m'écrire à colas (point) bardavid (at) gmail.com
 
 <!-- # Mathématiques -->
-- Professeur de mathématiques au [lycée Chateaubriand](https://www.lycee-chateaubriand.fr/) (Rennes) en classe de MPSI
-- Professeur d'informartique au [lycée Chateaubriand](https://www.lycee-chateaubriand.fr/) (Rennes) en classe de PCSI
+- Professeur au [lycée Chateaubriand](https://www.lycee-chateaubriand.fr/) (Rennes) :
+  - de mathématiques en MPSI
+  - d'informartique en PCSI
 - Ancien élève de l'[École normale supérieure](https://www.ens.psl.eu) (Ulm)
 - Docteur en mathématiques 
 - Professeur agrégé
