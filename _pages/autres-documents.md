@@ -15,16 +15,16 @@ title: "Autres documents"
 ---
 
 
-### 2019/2020 PCSI
+### 2019/2020 -- PCSI
 - [Cahier de gammes en combinatoire](combinatoire_cahier_exercices_corriges.pdf)
 - [Cahier d'algorithmes classiques sur les listes](algorithmes_listes_cahier_de_correction.pdf)
 
-### 2018/2019 PCSI
+### 2018/2019 -- PCSI
 - [Noyaux de formes linéaires](DS_blanc_2018_19_formes_lineaires.pdf)
 
-### 2017/2018 Première
+### 2017/2018 -- Première
 
-Voilà les DS que j'ai donnés en classe de Première, cette année-là.
+Voilà les DS que j'ai donnés en classe de Première en 2017/2018.
 
 - [DS1 blanc - Équations de degré 2](DS1_1S5_blanc.pdf)
 - [DS1 - Équations de degré 2](DS1_1S5_definitif.pdf)
