@@ -45,7 +45,7 @@ Pour les professeurs, le document qui rassemble tous les entraînements, pour to
 
 ---
 
-*La dernière version du cahier d'entraînement est la version 1.4.4.*
+*La dernière version du cahier d'entraînement est la version 1.4.8.*
 
 ---
 
