@@ -14,29 +14,27 @@ permalink: /cde-2/
 title: "Les cahiers d'entraînement en physique-chimie pour les deuxièmes années de prépa"
 ---
 
-<!--
-[![cahier d'entraînement](/assets/images/image_cde.jpg){:width="500px"}](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas)
+[![cahier d'entraînement](/assets/images/couverture_CdE_PC_2_MP.jpg){:width="500px"}](https://www.dunod.com/livres-colas-bardavid/)
 
-Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-classes-prepas) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
--->
+Vous pouvez [acheter la version éditée](https://www.dunod.com/livres-colas-bardavid/) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
 
 Ces cahiers d'entraînement sont destinés aux **élèves de deuxième année** post-Bac. Ils permettent aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. 
 
 Ce travail a été réalisé collectivement par plus de quarante professeurs en classes préparatoires, dans toutes les filières.
 
 
-Pour les classes prépa générales :
+Pour les classes prépas générales :
 - [la version MP/MP*](CdE_PC_2_MP.pdf)
 - [la version MPI/MPI*](CdE_PC_2_MPI.pdf)
 - [la version PC/PC*](CdE_PC_2_PC.pdf)
 - [la version PSI/PSI*](CdE_PC_2_PSI.pdf)
 - [la version PT/PT*](CdE_PC_2_PT.pdf)
 
-Pour les classes prépa technologiques :
+Pour les classes prépas technologiques :
 - [la version TSI2](CdE_PC_2_TSI2.pdf)
 - [la version TPC2](CdE_PC_2_TPC2.pdf)
 
-Pour les classes prépa ATS :
+Pour les classes prépas ATS :
 - [la version ATS](CdE_PC_2_ATS.pdf)
 
 Pour les professeurs, le document qui rassemble tous les entraînements, pour toutes les classes :
