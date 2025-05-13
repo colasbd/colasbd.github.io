@@ -22,7 +22,7 @@ Ces cahiers d'entraînement sont destinés aux **élèves de deuxième année** 
 
 Ce travail a été réalisé collectivement par plus de quarante professeurs en classes préparatoires, dans toutes les filières.
 
-- [La version PSI/PSI*](CdE_PC_2_PSI.pdf)
+- [La version PSI/PSI*](/cde-2/CdE_PC_2_PSI.pdf)
 - [Les autres versions]({{ site.baseurl }}{% link _pages/cde-2.md %})
 
 ---
