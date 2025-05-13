@@ -14,9 +14,9 @@ permalink: /cde-2/
 title: "Les cahiers d'entraînement en physique-chimie pour les deuxièmes années de prépa"
 ---
 
-[![cahier d'entraînement](/assets/images/couverture_CdE_PC_2_MP.jpg){:width="500px"}](https://www.dunod.com/livres-colas-bardavid/)
+[![cahier d'entraînement](/assets/images/couverture_CdE_PC_2_MP.jpg){:width="500px"}](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-mp-mpi)
 
-Vous pouvez [acheter la version éditée](https://www.dunod.com/livres-colas-bardavid/) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
+Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/cahier-d-entrainement-en-physique-chimie-mp-mpi) par Dunod du *cahier d'entraînement en physique-chimie*. Le prix est très abordable et le format très pratique.
 
 Ces cahiers d'entraînement sont destinés aux **élèves de deuxième année** post-Bac. Ils permettent aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. 
 
@@ -24,10 +24,10 @@ Ce travail a été réalisé collectivement par plus de quarante professeurs en 
 
 
 Pour les classes prépas générales :
-- [la version MP/MP*](CdE_PC_2_MP.pdf)
-- [la version MPI/MPI*](CdE_PC_2_MPI.pdf)
-- [la version PC/PC*](CdE_PC_2_PC.pdf)
-- [la version PSI/PSI*](CdE_PC_2_PSI.pdf)
+- [la version MP/MP*]({{ site.baseurl }}{% link _pages/cde-2-mp.md %})
+- [la version MPI/MPI*]({{ site.baseurl }}{% link _pages/cde-2-mpi.md %})
+- [la version PC/PC*]({{ site.baseurl }}{% link _pages/cde-2-pc.md %})
+- [la version PSI/PSI*]({{ site.baseurl }}{% link _pages/cde-2-psi.md %})
 - [la version PT/PT*](CdE_PC_2_PT.pdf)
 
 Pour les classes prépas technologiques :
@@ -43,7 +43,7 @@ Pour les professeurs, le document qui rassemble tous les entraînements, pour to
 
 ---
 
-*La dernière version du cahier d'entraînement est la version 1.4.8.*
+*La dernière version du cahier d'entraînement est la version 1.4.9.*
 
 ---
 
