@@ -19,7 +19,7 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en
 [![cahier de calcul](/assets/images/couverture_CdC_lycee_Premiere.jpeg){:width="500px"}](https://www.dunod.com/cahier-calcul-en-maths-1re-specialite-maths)
 
 
-- [Le cahier de calcul - Première Spécialité](/cdc-lycee/cahier_de_calcul_Premiere_Specialite_v1.5.0.pdf) 
+- [Le cahier de calcul - Première Spécialité](/cdc-lycee/cahier_de_calcul_Premiere_Specialite_v1.5.1.pdf) 
 - [Autres classes]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
 
 ---

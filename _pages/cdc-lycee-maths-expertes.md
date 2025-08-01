@@ -19,7 +19,7 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en
 [![cahier de calcul](/assets/images/couverture_CdC_lycee_Tale.jpeg){:width="500px"}](https://www.dunod.com/cahier-calcul-en-maths-terminale-specialite-maths-et-maths-expertes)
 
 
-- [Le cahier de calcul - Mathématiques Expertes](/cdc-lycee/cahier_de_calcul_Maths_Expertes_v1.5.0.pdf)
+- [Le cahier de calcul - Mathématiques Expertes](/cdc-lycee/cahier_de_calcul_Maths_Expertes_v1.5.1.pdf)
 - [Autres classes]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
 
 
