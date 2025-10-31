@@ -27,7 +27,7 @@ Ce travail a été réalisé collectivement par plus de quarante professeurs en 
 
 ---
 
-*La dernière version du cahier d'entraînement est la version 1.5.0.*
+*La dernière version du cahier d'entraînement est la version 1.5.1.*
 
 ---
 
