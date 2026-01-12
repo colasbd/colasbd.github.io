@@ -10,7 +10,7 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
-permalink: /cdc/
+permalink: /cdc-seconde/
 title: "Le cahier de calcul pour la Seconde"
 ---
 
