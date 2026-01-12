@@ -20,6 +20,7 @@ Vous trouverez sur cette page des documents et ressources en mathématiques et e
 <!-- qui pourront être utiles aux étudiants, aux enseignants et aux personnes qui préparent les concours de l'enseignement.-->
 
 ## Les cahiers de calcul
+- [Les cahiers de calcul pour la Seconde]({{ site.baseurl }}{% link _pages/cdc-seconde.md %})
 - [Les cahiers de calcul pour le lycée]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
 - [Le cahier de calcul en maths pour la prépa]({{ site.baseurl }}{% link _pages/cdc.md %})
 
