@@ -21,16 +21,16 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/prepas-concours/
 **Le cahier d'entraînement en physique-chimie** est destiné aux élèves de première année post-Bac. Il permet aux élèves de s'entraîner en autonomie à l'acquisition de réflexes utiles en physique-chimie. Ce travail a été réalisé collectivement par plus d'une trentaine de professeurs en classes préparatoires.
 
 La version tout-en-un : 
-- [Énoncés, réponses et corrigés](cahier_d_entrainement_PC_1.2.5.pdf)
+- [Énoncés, réponses et corrigés](cahier_d_entrainement_PC_1.2.6.pdf)
 
 Les versions énoncés seuls / réponses seules / réponses et corrigés seuls
-- [Énoncés seuls](cahier_d_entrainement_PC_enonces_1.2.5.pdf)
-- [Réponses seules](cahier_d_entrainement_PC_reponses_1.2.5.pdf)
-- [Réponses et corrigés seuls](cahier_d_entrainement_PC_corriges_1.2.5.pdf)
+- [Énoncés seuls](cahier_d_entrainement_PC_enonces_1.2.6.pdf)
+- [Réponses seules](cahier_d_entrainement_PC_reponses_1.2.6.pdf)
+- [Réponses et corrigés seuls](cahier_d_entrainement_PC_corriges_1.2.6.pdf)
 
 ---
 
-*La dernière version du cahier d'entraînement est la version 1.2.5.*
+*La dernière version du cahier d'entraînement est la version 1.2.6.*
 
 ---
 
