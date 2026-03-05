@@ -14,7 +14,11 @@ permalink: /cdc-seconde/
 title: "Le cahier de calcul pour la Seconde"
 ---
 
-TBC
+
+Vous pourrez bientôt [acheter la version éditée](https://www.amazon.fr/Cahier-calcul-en-maths-Seconde/dp/2100892495) par Dunod. Le prix est très abordable et le format très pratique.
+
+- [Le cahier de calcul - Seconde](/cdc-seconde/cahier_de_calcul_2nde_v1.0.0.pdf) 
+- [Autres classes]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
 
 ---
 
@@ -36,4 +40,29 @@ Voici les conditions d'utilisation et de partage de ce document :
 
 ### Participants
 
-TBC
+Mélissa Bailloeuil-Inglart
+Colas Bardavid
+Aude Bernard-Champmartin
+Ménard Bourgade
+Van Bien Bui
+Alain Camanes
+Pierre Cauchois
+Carole Chabanier
+Baptiste Claustre
+Geneviève Davion
+Anne-Lucie Delvallez
+Thomas Desorgeris
+Céline Donadei
+William Gregory
+Benjamin Groux
+Nicolas Laillet
+Sandrine Larôme
+François Laurent
+Vincent Le Gruiec 
+Blaise Le Meaux 
+Arthur Meyer
+Lionel Magnis
+Quang-Thai Ngo
+Alan Pellé
+Hervé Svoboda
+Jérôme Trochon
