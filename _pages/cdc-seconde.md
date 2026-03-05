@@ -22,7 +22,7 @@ Vous pourrez bientôt [acheter la version éditée](https://www.amazon.fr/Cahier
 
 ---
 
-*La dernière version du cahier de calcul est la version TBC*
+*La dernière version du cahier de calcul est la version 1.0.0.*
 
 ---
 
@@ -40,29 +40,29 @@ Voici les conditions d'utilisation et de partage de ce document :
 
 ### Participants
 
-Mélissa Bailloeuil-Inglart
-Colas Bardavid
-Aude Bernard-Champmartin
-Ménard Bourgade
-Van Bien Bui
-Alain Camanes
-Pierre Cauchois
-Carole Chabanier
-Baptiste Claustre
-Geneviève Davion
-Anne-Lucie Delvallez
-Thomas Desorgeris
-Céline Donadei
-William Gregory
-Benjamin Groux
-Nicolas Laillet
-Sandrine Larôme
-François Laurent
-Vincent Le Gruiec 
-Blaise Le Meaux 
-Arthur Meyer
-Lionel Magnis
-Quang-Thai Ngo
-Alan Pellé
-Hervé Svoboda
-Jérôme Trochon
+Mélissa Bailloeuil-Inglart<br>
+Colas Bardavid<br>
+Aude Bernard-Champmartin<br>
+Ménard Bourgade<br>
+Van Bien Bui<br>
+Alain Camanes<br>
+Pierre Cauchois<br>
+Carole Chabanier<br>
+Baptiste Claustre<br>
+Geneviève Davion<br>
+Anne-Lucie Delvallez<br>
+Thomas Desorgeris<br>
+Céline Donadei<br>
+William Gregory<br>
+Benjamin Groux<br>
+Nicolas Laillet<br>
+Sandrine Larôme<br>
+François Laurent<br>
+Vincent Le Gruiec<br>
+Blaise Le Meaux<br>
+Arthur Meyer<br>
+Lionel Magnis<br>
+Quang-Thai Ngo<br>
+Alan Pellé<br>
+Hervé Svoboda<br>
+Jérôme Trochon<br>
