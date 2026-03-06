@@ -31,7 +31,6 @@ Voici les conditions d'utilisation et de partage de ce document :
 - Les participants au projet peuvent le rendre disponible sur leur site web.
 - Le PDF ou le document imprimé mis à disposition par le professeur doit faire figurer le QR-code figurant page ii du PDF (ce QR-code permet d'accéder au site web du cahier de calcul).
 - Les sources LaTeX ne sont pas diffusées.
-- Les sources sont mises à disposition pour que les professeurs puissent adapter le cahier à leur classe, par exemple en enlevant un exercice, etc. En revanche, les sources ne sont pas mises à disposition pour servir de base à un autre projet.
 - Le contenu du cahier de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
 - Les noms des participants au projet sont indiqués en page 2 du cahier de calcul.
 
