@@ -37,29 +37,29 @@ Voici les conditions d'utilisation et de partage de ce document :
 ---
 
 ### Participants
-Mélissa BAILLŒUIL-INGLART
-Colas BARDAVID
-Aude BERNARD-CHAMPMARTIN
-Ménard BOURGADE
-Van Bien BUI
-Alain CAMANES
-Pierre CAUCHOIS
-Carole CHABANIER
-Baptiste CLAUSTRE
-Geneviève DAVION
-Anne-Lucie DELVALLEZ
-Thomas DESORGERIS
-Céline DONADEI
-William GREGORY
-Benjamin GROUX
-Nicolas LAILLET
-Sandrine LAROME
-François LAURENT
-Vincent LE GRUIEC
-Blaise LE MEAUX
-Lionel MAGNIS
-Arthur MEYER
-Quang-Thai NGO
-Alan PELLÉ
-Hervé SVOBODA
-Jérôme TROCHON
+Mélissa BAILLŒUIL-INGLART<br>
+Colas BARDAVID<br>
+Aude BERNARD-CHAMPMARTIN<br>
+Ménard BOURGADE<br>
+Van Bien BUI<br>
+Alain CAMANES<br>
+Pierre CAUCHOIS<br>
+Carole CHABANIER<br>
+Baptiste CLAUSTRE<br>
+Geneviève DAVION<br>
+Anne-Lucie DELVALLEZ<br>
+Thomas DESORGERIS<br>
+Céline DONADEI<br>
+William GREGORY<br>
+Benjamin GROUX<br>
+Nicolas LAILLET<br>
+Sandrine LAROME<br>
+François LAURENT<br>
+Vincent LE GRUIEC<br>
+Blaise LE MEAUX<br>
+Lionel MAGNIS<br>
+Arthur MEYER<br>
+Quang-Thai NGO<br>
+Alan PELLÉ<br>
+Hervé SVOBODA<br>
+Jérôme TROCHON<br>
