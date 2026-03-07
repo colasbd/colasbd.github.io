@@ -17,12 +17,12 @@ title: "Le cahier de calcul pour la Seconde"
 
 Vous pourrez bientôt [acheter la version éditée](https://www.amazon.fr/Cahier-calcul-en-maths-Seconde/dp/2100892495) par Dunod. Le prix est très abordable et le format très pratique.
 
-- [Le cahier de calcul - Seconde](/cdc-seconde/cahier_de_calcul_2nde_v1.0.2.pdf) 
+- [Le cahier de calcul - Seconde](/cdc-seconde/cahier_de_calcul_2nde_v1.1.0.pdf) 
 - [Autres classes]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
 
 ---
 
-*La dernière version du cahier de calcul est la version 1.0.2.*
+*La dernière version du cahier de calcul est la version 1.1.0.*
 
 ---
 
