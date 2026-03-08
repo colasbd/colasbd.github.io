@@ -20,7 +20,7 @@ Vous pouvez m'écrire à colas (point) bardavid (at) gmail.com
 <!-- # Mathématiques -->
 - Professeur au [lycée Chateaubriand](https://www.lycee-chateaubriand.fr/) (Rennes) :
   - de mathématiques en MPSI
-  - d'informartique en PCSI
+  - d'informatique en PCSI
 - Ancien élève de l'[École normale supérieure](https://www.ens.psl.eu) (Ulm)
 - Docteur en mathématiques 
 - Professeur agrégé
