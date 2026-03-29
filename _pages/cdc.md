@@ -14,9 +14,9 @@ permalink: /cdc/
 title: "Le cahier de calcul pour la prépa"
 ---
 
-[![cahier de calcul](/assets/images/image_cdc.jpg){:width="500px"}](https://www.amazon.fr/Cahier-calcul-maths-Classes-prépas/dp/2100861204/)
+[![cahier de calcul](/assets/images/image_cdc.jpg){:width="500px"}](https://www.amazon.fr/Cahier-calcul-maths-Prépas-MPSI-MP2I-PCSI-PTSI-TSI-BCPST-ATS-ECG-L1/dp/2100891367/)
 
-Vous pouvez [acheter la version éditée](https://www.amazon.fr/Cahier-calcul-maths-Classes-prépas/dp/2100861204/) par Dunod. Le prix est très abordable et le format très pratique.
+Vous pouvez [acheter la version éditée](https://www.amazon.fr/Cahier-calcul-maths-Prépas-MPSI-MP2I-PCSI-PTSI-TSI-BCPST-ATS-ECG-L1/dp/2100891367/) par Dunod. Le prix est très abordable et le format très pratique.
 
 Le cahier de calcul est destiné aux élèves de première année post-Bac. Il permet aux élèves de s'entraîner en autonomie à la pratique du calcul. Ce travail a été réalisé collectivement par une trentaine de professeurs en classes préparatoires.
 - [Énoncés seuls](cahier_de_calcul_enonces_v1.3.2.pdf)
