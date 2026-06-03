@@ -14,11 +14,13 @@ permalink: /cdc-seconde/
 title: "Le cahier de calcul pour la Seconde"
 ---
 
+Vous pouvez [acheter la version éditée](https://www.dunod.com/sciences-techniques/cahier-calcul-en-maths-seconde) par Dunod. Le prix est très abordable et le format très pratique.
 
-Vous pourrez bientôt [acheter la version éditée](https://www.amazon.fr/Cahier-calcul-en-maths-Seconde/dp/2100892495) par Dunod. Le prix est très abordable et le format très pratique.
+[![Le cahier de calcul - Seconde](/assets/images/couverture_CdC_2nde.jpeg){:width="500px"}](https://www.dunod.com/sciences-techniques/cahier-calcul-en-maths-seconde) 
 
 - [Le cahier de calcul - Seconde](/cdc-seconde/cahier_de_calcul_2nde_v1.2.0.pdf) 
 - [Autres classes]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
+
 
 ---
 
