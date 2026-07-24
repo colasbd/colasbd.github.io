@@ -18,13 +18,13 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/sciences-techniq
 
 [![Le cahier de calcul - Seconde](/assets/images/couverture_CdC_2nde.jpeg){:width="500px"}](https://www.dunod.com/sciences-techniques/cahier-calcul-en-maths-seconde) 
 
-- [Le cahier de calcul - Seconde](/cdc-seconde/cahier_de_calcul_2nde_v1.2.2.pdf) 
+- [Le cahier de calcul - Seconde](/cdc-seconde/cahier_de_calcul_2nde_v1.2.3.pdf) 
 - [Autres classes]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
 
 
 ---
 
-*La dernière version du cahier de calcul est la version 1.2.2.*
+*La dernière version du cahier de calcul est la version 1.2.3.*
 
 ---
 
