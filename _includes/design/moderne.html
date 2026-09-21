@@ -1,0 +1,69 @@
+{%- comment -%}
+Design "moderne" : page complète, sans dépendance au thème Minimal Mistakes.
+Feuille de style : assets/css/moderne.css. Le front matter des pages est réutilisé
+tel quel (title, author_profile, permalink) ; les bandeaux `header.overlay_image`
+sont volontairement ignorés.
+{%- endcomment -%}
+{%- assign auteur = site.author -%}
+{%- assign accueil = page.url == "/" or page.url == "/index.html" -%}
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "fr" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{% if accueil %}{{ site.title }}{% else %}{{ page.title }} · {{ auteur.name }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | strip | truncate: 160 }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/moderne.css' | relative_url }}">
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+
+<body>
+  <a class="lien-evitement" href="#contenu">Aller au contenu</a>
+
+  <header class="entete">
+    <a class="entete__nom" href="{{ '/' | relative_url }}">{{ auteur.name }}</a>
+    <nav class="entete__nav" aria-label="Navigation principale">
+      {%- for item in site.data.navigation.main -%}
+        {%- assign href = item.url -%}
+        {%- if href == "index" %}{% assign href = "/" %}{% endif -%}
+        <a href="{{ href | relative_url }}"{% if page.url == href %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {%- endfor -%}
+    </nav>
+  </header>
+
+  <main id="contenu" class="page{% if page.author_profile %} page--avec-profil{% endif %}">
+    {%- if page.author_profile %}
+    <aside class="profil">
+      {%- if auteur.avatar %}
+      <img class="profil__photo" src="{{ auteur.avatar | relative_url }}" alt="" width="96" height="96">
+      {%- endif %}
+      <div class="profil__texte">
+        <p class="profil__nom">{{ auteur.name }}</p>
+        {%- if auteur.bio %}{{ auteur.bio | markdownify }}{% endif -%}
+        {%- if auteur.biobis %}{{ auteur.biobis | markdownify }}{% endif -%}
+        {%- if auteur.links %}
+        <ul class="profil__liens">
+          {%- for lien in auteur.links %}
+          <li><a href="{{ lien.url }}" rel="noopener">{{ lien.label }}</a></li>
+          {%- endfor %}
+        </ul>
+        {%- endif %}
+      </div>
+    </aside>
+    {%- endif %}
+
+    <article class="contenu">
+      <h1 class="contenu__titre">{{ page.title }}</h1>
+      {{ include.content }}
+    </article>
+  </main>
+
+  <footer class="pied">
+    <p>© {{ site.time | date: '%Y' }} {{ auteur.name }}
+      {%- for lien in site.footer.links %} · <a href="{{ lien.url }}" rel="noopener">{{ lien.label }}</a>{% endfor %}
+      · Site construit avec <a href="https://jekyllrb.com" rel="noopener">Jekyll</a></p>
+  </footer>
+</body>
+</html>

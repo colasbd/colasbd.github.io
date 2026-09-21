@@ -1,0 +1,352 @@
+/* ==========================================================================
+   Design « moderne » — feuille de style autonome (aucune dépendance au thème).
+   Esprit éditorial : serif, fond papier, une couleur d'accent, beaucoup d'air.
+   Mode sombre automatique via prefers-color-scheme.
+   ========================================================================== */
+
+:root {
+  --fond: #fbfaf7;
+  --fond-2: #f1efe9;
+  --texte: #1e1e1c;
+  --texte-2: #605d55;
+  --trait: #dedbd2;
+  --accent: #1f4b7a;
+  --accent-fort: #163a5f;
+  --ombre: 0 1px 2px rgba(20, 20, 10, .08), 0 10px 28px rgba(20, 20, 10, .10);
+
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Charter, Georgia, "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  --largeur-texte: 44rem;
+  --largeur-page: 62rem;
+  --gouttiere: 1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fond: #16181b;
+    --fond-2: #1e2125;
+    --texte: #e9e7e1;
+    --texte-2: #a8a49b;
+    --trait: #33373d;
+    --accent: #8db5e6;
+    --accent-fort: #b7d1f2;
+    --ombre: 0 1px 2px rgba(0, 0, 0, .4), 0 10px 28px rgba(0, 0, 0, .45);
+  }
+}
+
+/* --- Base ---------------------------------------------------------------- */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  font-size: 106.25%;                 /* 17px */
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--fond);
+  color: var(--texte);
+  font-family: var(--serif);
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.lien-evitement {
+  position: absolute;
+  left: -100vw;
+  top: .5rem;
+  padding: .5rem .8rem;
+  background: var(--accent);
+  color: #fff;
+}
+.lien-evitement:focus { left: .5rem; z-index: 10; }
+
+/* --- En-tête ------------------------------------------------------------- */
+
+.entete {
+  max-width: var(--largeur-page);
+  width: 100%;
+  margin: 0 auto;
+  padding: 1.1rem var(--gouttiere);
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1.5rem;
+  border-bottom: 1px solid var(--trait);
+}
+
+.entete__nom {
+  color: var(--texte);
+  font-weight: 600;
+  font-size: 1.05rem;
+  letter-spacing: .01em;
+  text-decoration: none;
+}
+.entete__nom:hover { color: var(--accent); }
+
+.entete__nav {
+  display: flex;
+  gap: 1.4rem;
+  font-family: var(--sans);
+  font-size: .8rem;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+.entete__nav a {
+  color: var(--texte-2);
+  text-decoration: none;
+  padding-bottom: .15rem;
+  border-bottom: 1px solid transparent;
+}
+.entete__nav a:hover { color: var(--accent); }
+.entete__nav a[aria-current="page"] {
+  color: var(--texte);
+  border-bottom-color: var(--accent);
+}
+
+/* --- Page ---------------------------------------------------------------- */
+
+.page {
+  flex: 1;
+  width: 100%;
+  max-width: var(--largeur-texte);
+  margin: 0 auto;
+  padding: 3rem var(--gouttiere) 4.5rem;
+}
+
+.page--avec-profil {
+  max-width: var(--largeur-page);
+  display: grid;
+  grid-template-columns: 13rem minmax(0, 1fr);
+  column-gap: 3.5rem;
+  align-items: start;
+}
+.page--avec-profil .contenu { max-width: var(--largeur-texte); }
+
+.contenu__titre {
+  margin: 0 0 1.6rem;
+  font-size: clamp(1.85rem, 1.2rem + 2.4vw, 2.5rem);
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -.012em;
+  text-wrap: balance;
+}
+.contenu__titre::after {
+  content: "";
+  display: block;
+  width: 3rem;
+  height: 2px;
+  margin-top: 1.1rem;
+  background: var(--accent);
+}
+
+/* --- Profil (page d'accueil) --------------------------------------------- */
+
+.profil {
+  position: sticky;
+  top: 2rem;
+  font-size: .92rem;
+  line-height: 1.5;
+  color: var(--texte-2);
+}
+.profil p { margin: 0 0 .5rem; }
+.profil__photo {
+  display: block;
+  width: 6rem;
+  height: 6rem;
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: var(--ombre);
+}
+.profil__nom {
+  color: var(--texte);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.profil__liens {
+  list-style: none;
+  margin: .9rem 0 0;
+  padding: .9rem 0 0;
+  border-top: 1px solid var(--trait);
+  font-family: var(--sans);
+  font-size: .78rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+}
+.profil__liens a { text-decoration: none; }
+
+@media (max-width: 48rem) {
+  .page--avec-profil {
+    display: block;
+  }
+  .profil {
+    position: static;
+    display: flex;
+    gap: 1.2rem;
+    align-items: center;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--trait);
+  }
+  .profil__photo { width: 4.5rem; height: 4.5rem; margin: 0; flex: none; }
+  .profil__liens { margin-top: .4rem; padding-top: 0; border: 0; }
+}
+
+/* --- Contenu ------------------------------------------------------------- */
+
+.contenu > p:first-of-type { font-size: 1.05em; }
+
+.contenu h2 {
+  margin: 2.6rem 0 .7rem;
+  font-size: 1.45rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -.008em;
+}
+.contenu h3 {
+  margin: 2rem 0 .5rem;
+  font-family: var(--sans);
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--texte-2);
+}
+.contenu h4 { margin: 1.5rem 0 .4rem; font-size: 1.05rem; }
+.contenu h2 + h3 { margin-top: 1rem; }
+
+.contenu p { margin: 0 0 1rem; }
+
+.contenu a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: color-mix(in srgb, var(--accent) 40%, transparent);
+  text-underline-offset: .18em;
+  transition: text-decoration-color .15s, color .15s;
+}
+.contenu a:hover {
+  color: var(--accent-fort);
+  text-decoration-color: currentColor;
+}
+
+/* Petite étiquette « PDF » après les liens vers des fichiers PDF. */
+.contenu a[href$=".pdf" i]::after {
+  content: "pdf";
+  display: inline-block;          /* évite d'hériter du soulignement */
+  margin-left: .4em;
+  padding: 0 .35em;
+  border: 1px solid var(--trait);
+  border-radius: .25em;
+  font-family: var(--sans);
+  font-size: .62em;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  line-height: 1.6;
+  vertical-align: .2em;
+  color: var(--texte-2);
+}
+
+.contenu ul, .contenu ol {
+  margin: 0 0 1.2rem;
+  padding-left: 1.3rem;
+}
+.contenu li { margin: .3rem 0; }
+.contenu li::marker { color: var(--texte-2); }
+.contenu li > ul, .contenu li > ol { margin: .3rem 0 .4rem; }
+
+.contenu img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: var(--ombre);
+}
+.contenu p > a > img { display: block; margin: .5rem 0 1.5rem; }
+
+.contenu hr {
+  width: 4rem;
+  height: 1px;
+  margin: 2.5rem auto;
+  border: 0;
+  background: var(--trait);
+}
+
+.contenu blockquote {
+  margin: 1.5rem 0;
+  padding: .2rem 0 .2rem 1.2rem;
+  border-left: 2px solid var(--accent);
+  color: var(--texte-2);
+}
+
+.contenu code, .contenu pre {
+  font-family: var(--mono);
+  font-size: .88em;
+}
+.contenu code {
+  padding: .1em .35em;
+  border-radius: 3px;
+  background: var(--fond-2);
+}
+.contenu pre {
+  overflow-x: auto;
+  padding: 1rem 1.2rem;
+  border-radius: 6px;
+  background: var(--fond-2);
+  line-height: 1.5;
+}
+.contenu pre code { padding: 0; background: none; }
+
+.contenu table {
+  width: 100%;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  font-size: .95em;
+}
+.contenu th, .contenu td {
+  padding: .5rem .6rem;
+  border-bottom: 1px solid var(--trait);
+  text-align: left;
+  vertical-align: top;
+}
+.contenu th { font-weight: 600; }
+
+.contenu iframe { max-width: 100%; }
+
+/* --- Pied de page -------------------------------------------------------- */
+
+.pied {
+  max-width: var(--largeur-page);
+  width: 100%;
+  margin: 0 auto;
+  padding: 1.5rem var(--gouttiere) 2.5rem;
+  border-top: 1px solid var(--trait);
+  font-size: .85rem;
+  color: var(--texte-2);
+}
+.pied p { margin: 0; }
+.pied a { color: inherit; text-decoration: none; }
+.pied a:hover { color: var(--accent); }
+
+/* --- Impression ---------------------------------------------------------- */
+
+@media print {
+  .entete__nav, .lien-evitement, .pied { display: none; }
+  body { background: #fff; color: #000; }
+  .contenu a { color: inherit; }
+  .contenu a[href$=".pdf" i]::after { display: none; }
+}

@@ -1,0 +1,52 @@
+{%- comment -%}
+Design "classique" : reproduit ce que produisaient les layouts `archive` puis `default`
+de Minimal Mistakes (avec le pied de page gris de _layouts/default.html), plus MathJax.
+Ne pas modifier sans raison : c'est l'ancien rendu du site, conservé à l'identique.
+{%- endcomment -%}
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme by Michael Rose
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  </head>
+
+  <body class="layout--{{ page.layout }}{% if page.classes %}{{ page.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
+
+    <div class="initial-content">
+      {%- assign locale = page.locale | default: site.locale %}
+
+      {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+        {% include page__hero.html locale=locale %}
+      {% endif %}
+
+      <div id="main" role="main">
+        {% include sidebar.html locale=locale %}
+
+        <div class="archive">
+          {% unless page.header.overlay_color or page.header.overlay_image %}
+            <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+          {% endunless %}
+          {{ include.content }}
+        </div>
+      </div>
+    </div>
+
+    <div id="footer" class="page__footer" style="background-color:#6b6a66 !important;">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>

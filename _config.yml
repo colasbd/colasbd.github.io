@@ -27,9 +27,17 @@ github_username: colasbd
 minimal_mistakes_skin: air #neon #mint #contrast #default
 search: false #true
 
+# Design du site : "classique" (thème Minimal Mistakes) ou "moderne" (design maison).
+# Il suffit de changer cette ligne pour basculer tout le site.
+# On peut aussi mettre `design: moderne` ou `design: classique` dans le front
+# matter d'une page pour forcer le design de cette page seule.
+design: moderne
+
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# Version épinglée : sans « @version », GitHub reconstruirait le site avec la
+# dernière version du thème à chaque push, avec le risque qu'une mise à jour casse le site.
+remote_theme: mmistakes/minimal-mistakes@4.28.1
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show

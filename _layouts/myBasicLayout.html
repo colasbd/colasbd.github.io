@@ -1,7 +1,16 @@
 ---
-layout: archive
+# Aiguilleur entre les deux designs du site.
+#
+# Le design est choisi par, dans l'ordre :
+#   1. `design:` dans le front matter de la page (pour tester sur une seule page) ;
+#   2. `design:` dans _config.yml (réglage global) ;
+#   3. sinon, "classique".
+#
+# Valeurs possibles : "classique" (thème Minimal Mistakes) ou "moderne" (design maison).
 ---
-
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-{{content}}
+{%- assign design = page.design | default: site.design | default: "classique" -%}
+{%- if design == "moderne" -%}
+{%- include design/moderne.html content=content -%}
+{%- else -%}
+{%- include design/classique.html content=content -%}
+{%- endif -%}
