@@ -15,6 +15,15 @@ Le site a deux designs, choisis par la ligne `design:` de `_config.yml` :
 Le fichier `_layouts/myBasicLayout.html` sert d'aiguilleur. On peut aussi forcer le design
 d'une seule page en mettant `design: classique` ou `design: moderne` dans son front matter.
 
+## Revenir à l'ancien design
+
+1. Ouvrir `_config.yml` et trouver la ligne `design: moderne`.
+2. La remplacer par `design: classique`.
+3. Commiter et pousser : GitHub reconstruit le site en une minute environ.
+
+Pour revenir au nouveau design, remettre `design: moderne`. Rien d'autre à changer :
+les deux designs restent dans le dépôt, seule cette ligne choisit celui qui est affiché.
+
 ## Prévisualiser en local
 
 ```bash
