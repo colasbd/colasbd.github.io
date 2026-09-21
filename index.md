@@ -53,6 +53,3 @@ En plus de ces sujets, je m'intéresse à la théorie des types.
 Ces vidéos ont été réalisées pendant le confinement de mars-juin 2020.
 - [Vidéos d'exercices corrigés](https://www.youtube.com/playlist?list=PLXbwGLiLTeqxQ95WFm0YuBeFCa27H5xKV)
 
-
-## Fragments de code
-Je mets ici à disposition des [fragments de code]({{ site.baseurl }}{% link _pages/fragments-de-code.md %}), en particulier de code LaTeX.
