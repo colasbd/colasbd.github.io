@@ -32,6 +32,9 @@ search: false #true
 # On peut aussi mettre `design: moderne` ou `design: classique` dans le front
 # matter d'une page pour forcer le design de cette page seule.
 design: moderne
+# Image de bandeau du design moderne, affichée en haut de chaque page.
+# Mettre la ligne en commentaire (ou la supprimer) pour ne pas avoir de bandeau.
+bandeau: /assets/images/backgrounds/header_5_rogne.jpg
 
 # Build settings
 markdown: kramdown
@@ -76,9 +79,9 @@ author:
   bioter    : "Coucou"
 
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/colasbd"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/colasbd"
     #- label: "Improov Maths"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/Improov_Maths"

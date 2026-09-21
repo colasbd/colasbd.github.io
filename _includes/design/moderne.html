@@ -2,7 +2,7 @@
 Design "moderne" : page complète, sans dépendance au thème Minimal Mistakes.
 Feuille de style : assets/css/moderne.css. Le front matter des pages est réutilisé
 tel quel (title, author_profile, permalink) ; les bandeaux `header.overlay_image`
-sont volontairement ignorés.
+sont volontairement ignorés ; le bandeau commun vient de `site.bandeau` (_config.yml).
 {%- endcomment -%}
 {%- assign auteur = site.author -%}
 {%- assign accueil = page.url == "/" or page.url == "/index.html" -%}
@@ -15,12 +15,17 @@ sont volontairement ignorés.
   <title>{% if accueil %}{{ site.title }}{% else %}{{ page.title }} · {{ auteur.name }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | strip | truncate: 160 }}">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {% include head/custom.html %}
   <link rel="stylesheet" href="{{ '/assets/css/moderne.css' | relative_url }}">
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
-<body>
+<body{% if site.bandeau %} style="--image-bandeau: url('{{ site.bandeau | relative_url }}')"{% endif %}>
   <a class="lien-evitement" href="#contenu">Aller au contenu</a>
+
+  {%- if site.bandeau %}
+  <div class="bandeau" role="presentation"></div>
+  {%- endif %}
 
   <header class="entete">
     <a class="entete__nom" href="{{ '/' | relative_url }}">{{ auteur.name }}</a>
@@ -65,5 +70,8 @@ sont volontairement ignorés.
       {%- for lien in site.footer.links %} · <a href="{{ lien.url }}" rel="noopener">{{ lien.label }}</a>{% endfor %}
       · Site construit avec <a href="https://jekyllrb.com" rel="noopener">Jekyll</a></p>
   </footer>
+  {%- if site.bandeau %}
+  <div class="bandeau bandeau--pied" role="presentation"></div>
+  {%- endif %}
 </body>
 </html>

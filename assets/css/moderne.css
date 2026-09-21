@@ -10,8 +10,9 @@
   --texte: #1e1e1c;
   --texte-2: #605d55;
   --trait: #dedbd2;
-  --accent: #1f4b7a;
-  --accent-fort: #163a5f;
+  --accent: #d9581c;          /* orange brûlé, écho au bandeau */
+  --lien: #1f4b7a;            /* bleu encre pour les liens (complémentaire de l'orange) */
+  --lien-fort: #163a5f;
   --ombre: 0 1px 2px rgba(20, 20, 10, .08), 0 10px 28px rgba(20, 20, 10, .10);
 
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Charter, Georgia, "Times New Roman", serif;
@@ -30,8 +31,9 @@
     --texte: #e9e7e1;
     --texte-2: #a8a49b;
     --trait: #33373d;
-    --accent: #8db5e6;
-    --accent-fort: #b7d1f2;
+    --accent: #f08a4b;
+    --lien: #8db5e6;
+    --lien-fort: #b7d1f2;
     --ombre: 0 1px 2px rgba(0, 0, 0, .4), 0 10px 28px rgba(0, 0, 0, .45);
   }
 }
@@ -73,6 +75,33 @@ body {
   color: #fff;
 }
 .lien-evitement:focus { left: .5rem; z-index: 10; }
+
+/* --- Bandeau image (site.bandeau) ---------------------------------------- */
+
+/* L'image est fournie par la variable --image-bandeau posée sur <body> ; les autres
+   touches (filet du titre, liseré du profil et du pied) retombent sur la
+   couleur d'accent quand il n'y a pas d'image. */
+
+.bandeau {
+  height: 3rem;                 /* simple liseré coloré, identique sur toutes les pages */
+  background-image: var(--image-bandeau);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bandeau--pied {
+  height: .6rem;
+  background-position: center bottom;   /* la partie orange du bas de l'image */
+}
+
+@media (max-width: 48rem) {
+  .bandeau { height: 2.25rem; }
+  .bandeau--pied { height: .5rem; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .bandeau { filter: brightness(.85) saturate(.9); }
+}
 
 /* --- En-tête ------------------------------------------------------------- */
 
@@ -144,13 +173,16 @@ body {
   letter-spacing: -.012em;
   text-wrap: balance;
 }
-.contenu__titre::after {
+.contenu__titre::after {          /* coup de pinceau : tranche de l'image, ou trait plat sans image */
   content: "";
   display: block;
-  width: 3rem;
-  height: 2px;
+  width: 3.5rem;
+  height: 5px;
   margin-top: 1.1rem;
-  background: var(--accent);
+  border-radius: 1px;
+  background: var(--image-bandeau, var(--accent));
+  background-size: 300% auto;
+  background-position: 35% 70%;
 }
 
 /* --- Profil (page d'accueil) --------------------------------------------- */
@@ -187,7 +219,18 @@ body {
   letter-spacing: .07em;
   text-transform: uppercase;
 }
+.profil a { color: var(--lien); text-decoration-color: color-mix(in srgb, var(--lien) 40%, transparent); }
 .profil__liens a { text-decoration: none; }
+.profil__nom::after {             /* liseré : rappel de l'image, sous le nom */
+  content: "";
+  display: block;
+  height: 1rem;
+  margin: .5rem 0 .7rem;
+  border-radius: 2px;
+  background: var(--image-bandeau, var(--accent));
+  background-size: cover;
+  background-position: center;
+}
 
 @media (max-width: 48rem) {
   .page--avec-profil {
@@ -203,7 +246,9 @@ body {
     border-bottom: 1px solid var(--trait);
   }
   .profil__photo { width: 4.5rem; height: 4.5rem; margin: 0; flex: none; }
+  .profil__texte { flex: 1; min-width: 0; }
   .profil__liens { margin-top: .4rem; padding-top: 0; border: 0; }
+  .profil__nom::after { height: .75rem; margin: .35rem 0 .5rem; }
 }
 
 /* --- Contenu ------------------------------------------------------------- */
@@ -232,15 +277,15 @@ body {
 .contenu p { margin: 0 0 1rem; }
 
 .contenu a {
-  color: var(--accent);
+  color: var(--lien);
   text-decoration: underline;
   text-decoration-thickness: 1px;
-  text-decoration-color: color-mix(in srgb, var(--accent) 40%, transparent);
+  text-decoration-color: color-mix(in srgb, var(--lien) 40%, transparent);
   text-underline-offset: .18em;
   transition: text-decoration-color .15s, color .15s;
 }
 .contenu a:hover {
-  color: var(--accent-fort);
+  color: var(--lien-fort);
   text-decoration-color: currentColor;
 }
 
@@ -333,7 +378,7 @@ body {
   max-width: var(--largeur-page);
   width: 100%;
   margin: 0 auto;
-  padding: 1.5rem var(--gouttiere) 2.5rem;
+  padding: 1.5rem var(--gouttiere) 2rem;
   border-top: 1px solid var(--trait);
   font-size: .85rem;
   color: var(--texte-2);
@@ -345,7 +390,7 @@ body {
 /* --- Impression ---------------------------------------------------------- */
 
 @media print {
-  .entete__nav, .lien-evitement, .pied { display: none; }
+  .entete__nav, .lien-evitement, .pied, .bandeau { display: none; }
   body { background: #fff; color: #000; }
   .contenu a { color: inherit; }
   .contenu a[href$=".pdf" i]::after { display: none; }

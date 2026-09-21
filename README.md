@@ -12,6 +12,9 @@ Le site a deux designs, choisis par la ligne `design:` de `_config.yml` :
 - `design: moderne` — le design maison, sans dépendance au thème
   (`_includes/design/moderne.html` + `assets/css/moderne.css`).
 
+Le design moderne affiche en haut de chaque page l'image indiquée par `bandeau:` dans
+`_config.yml` ; mettre cette ligne en commentaire pour ne pas avoir de bandeau.
+
 Le fichier `_layouts/myBasicLayout.html` sert d'aiguilleur. On peut aussi forcer le design
 d'une seule page en mettant `design: classique` ou `design: moderne` dans son front matter.
 
