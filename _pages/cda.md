@@ -20,9 +20,7 @@ Quatre cahiers spécifiquement conçus pour quatre niveaux.
 
 - [Le cahier d'automatismes pour la Seconde]({{ site.baseurl }}{% link _pages/cda-seconde.md %})
 {% comment %}
-<!--
 - [Le cahier d'automatismes pour la Première tronc commun]({{ site.baseurl }}{% link _pages/cda-1-tc.md %})
 - [Le cahier d'automatismes pour la Première technologique]({{ site.baseurl }}{% link _pages/cda-1-techno.md %})
 - [Le cahier d'automatismes pour la Première spécialité]({{ site.baseurl }}{% link _pages/cda-1-spe.md %})
 {% endcomment %}
--->

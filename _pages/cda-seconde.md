@@ -14,7 +14,7 @@ permalink: /cda-seconde/
 title: "Le cahier d'automatismes pour la Seconde"
 ---
 
-<!-->
+<!--
 Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en-maths-1re-specialite-maths) par Dunod. Le prix est très abordable et le format très pratique.
 
 [![cahier de calcul](/assets/images/couverture_CdC_lycee_Premiere.jpeg){:width="500px"}](https://www.dunod.com/cahier-calcul-en-maths-1re-specialite-maths)
