@@ -25,8 +25,7 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en
 
 ---
 
-Ce travail a été réalisé collectivement par une trentaine de professeurs en classes préparatoires et en lycée :
-
+### Participants
 Flavie AUBOURG<br>
 Mélissa BAILLOEUIL-INGLART<br>
 Aude BERNARD-CHAMPMARTIN<br>
@@ -42,7 +41,7 @@ Keven COMMAULT<br>
 Geneviève DAVION<br>
 Céline DONADEI<br>
 Redouane DZIRI<br>
-Eliane GAYOUT<br>
+Éliane GAYOUT<br>
 Emmanuel GENNEQUIN<br>
 William GREGORY<br>
 Benjamin GROUX<br>
@@ -71,4 +70,4 @@ Voici les conditions d'utilisation et de partage de ces documents :
 
 ---
 
-Dernière version : 0.0.1
+Dernière version : 0.1.2

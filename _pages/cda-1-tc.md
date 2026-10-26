@@ -10,8 +10,8 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
-permalink: /cda-seconde/
-title: "Le cahier d'automatismes pour la Seconde"
+permalink: /cda-1-tc/
+title: "Le cahier d'automatismes pour la Première tronc commun"
 ---
 
 <!--
@@ -20,13 +20,12 @@ Vous pouvez [acheter la version éditée](https://www.dunod.com/cahier-calcul-en
 [![cahier de calcul](/assets/images/couverture_CdC_lycee_Premiere.jpeg){:width="500px"}](https://www.dunod.com/cahier-calcul-en-maths-1re-specialite-maths)
 -->
 
-- [Le cahier d'automatismes pour la Seconde](/cda/CdA_Seconde.pdf) 
+- [Le cahier d'automatismes pour la Première tronc commun](/cda/CdA_Premiere_Tronc_commun.pdf) 
 - [Autres classes]({{ site.baseurl }}{% link _pages/cda.md %})
 
 ---
 
-Ce travail a été réalisé collectivement par une trentaine de professeurs en classes préparatoires et en lycée :
-
+### Participants
 Flavie AUBOURG<br>
 Mélissa BAILLOEUIL-INGLART<br>
 Aude BERNARD-CHAMPMARTIN<br>
@@ -42,7 +41,7 @@ Keven COMMAULT<br>
 Geneviève DAVION<br>
 Céline DONADEI<br>
 Redouane DZIRI<br>
-Eliane GAYOUT<br>
+Éliane GAYOUT<br>
 Emmanuel GENNEQUIN<br>
 William GREGORY<br>
 Benjamin GROUX<br>
@@ -71,4 +70,4 @@ Voici les conditions d'utilisation et de partage de ces documents :
 
 ---
 
-Dernière version : 0.0.1
+Dernière version : 0.1.2
