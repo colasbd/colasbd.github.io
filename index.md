@@ -23,10 +23,12 @@ Vous trouverez sur cette page des documents et ressources en mathématiques et e
 - [Le cahier de calcul pour la Seconde]({{ site.baseurl }}{% link _pages/cdc-seconde.md %})
 - [Les cahiers de calcul pour le lycée]({{ site.baseurl }}{% link _pages/cdc-lycee.md %})
 - [Le cahier de calcul en maths pour la prépa]({{ site.baseurl }}{% link _pages/cdc.md %})
+
 <!--
 ## Les cahiers d'automatismes
 - [Les cahiers d'automatismes]({{ site.baseurl }}{% link _pages/cda.md %})
 -->
+
 ## Les cahiers d'entraînements en physique/chimie 
 - [Le cahier d'entraînement en physique/chimie pour les premières années]({{ site.baseurl }}{% link _pages/cde.md %})
 - [Le cahier d'entraînement en physique/chimie pour les deuxièmes années]({{ site.baseurl }}{% link _pages/cde-2.md %})
