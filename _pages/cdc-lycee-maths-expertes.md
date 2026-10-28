@@ -75,4 +75,4 @@ Jérôme TROCHON
 
 ---
 
-Dernière version : 2.0.0 (pour le cahier de calcul Mathématiques Expertes)
+Dernière version : 2.0.1 (pour le cahier de calcul Mathématiques Expertes)

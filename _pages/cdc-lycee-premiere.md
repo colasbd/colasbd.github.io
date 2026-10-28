@@ -75,4 +75,4 @@ Voici les conditions d'utilisation et de partage de ces documents :
 
 ---
 
-Dernière version : 2.0.0 (pour le cahier de calcul Première Spécialité)
+Dernière version : 2.0.1 (pour le cahier de calcul Première Spécialité)
