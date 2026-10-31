@@ -21,10 +21,12 @@ Vous pouvez m'écrire à colas (point) bardavid (at) gmail.com
 - Professeur au [lycée Chateaubriand](https://www.lycee-chateaubriand.fr/) (Rennes) :
   - de mathématiques en MPSI
   - d'informatique en PCSI
-- Ancien élève de l'[École normale supérieure](https://www.ens.psl.eu) (Ulm)
 - Docteur en mathématiques 
+- Ancien élève de l'[École normale supérieure](https://www.ens.psl.eu) (Ulm)
 - Professeur agrégé
-- Titulaire d'une licence de philosophie de la Sorbonne
+- Licencié en philosophie (Sorbonne)
+
+<!-- Titulaire d'une licence de philosophie de la Sorbonne -->
 
 <!--# Informatique
 - Je suis le créateur de l'application pour tablettes et smartphones Improov, disponible pour iPhone, Android et iPad. 
