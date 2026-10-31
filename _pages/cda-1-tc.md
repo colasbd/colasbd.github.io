@@ -66,8 +66,3 @@ Voici les conditions d'utilisation et de partage de ces documents :
 - Les participants au projet peuvent les mettre à disposition sur leur site web.
 - Les sources LaTeX ne sont pas diffusées.
 - Le contenu des cahiers d'automatismes est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial. En revanche, les cahiers d'automatismes ne sont pas mis à disposition pour servir de base à un autre projet.
-
-
----
-
-Dernière version : 0.1.2
