@@ -23,5 +23,5 @@ Quatre cahiers spécifiquement conçus pour quatre niveaux.
 
 --
 
-Dernière version : 1.1.0
+Dernière version : 1.1.1
 
