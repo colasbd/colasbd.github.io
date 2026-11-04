@@ -35,6 +35,7 @@ Voici les conditions d'utilisation et de partage de ce document :
 - Les sources LaTeX ne sont pas diffusées.
 - Le contenu du cahier de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
 - Les noms des participants au projet sont indiqués en page 2 du cahier de calcul.
+- {% include avis-ia-regle.html %}
 
 ---
 

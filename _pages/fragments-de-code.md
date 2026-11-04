@@ -12,6 +12,7 @@ header:
   #overlay_color: "#907ab3"
 
 author_profile: no
+avis_ia: false # le seul PDF est une illustration : pas d'avis sur l'IA (voir _layouts/myBasicLayout.html)
 permalink: /fragments-de-code/
 title: "Fragments de code"
 ---

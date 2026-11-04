@@ -1,0 +1,42 @@
+# Droits réservés : les documents de ce site ne doivent pas être utilisés pour la
+# fouille de textes et de données ni pour alimenter, entraîner ou enrichir des outils
+# d'intelligence artificielle (art. L. 122-5-3 III du code de la propriété intellectuelle,
+# art. 4 de la directive (UE) 2019/790).
+#
+# Les moteurs de recherche classiques (Google, Bing, etc.) restent autorisés :
+# aucune règle ne les vise.
+#
+# Ce fichier remplace celui que le plugin jekyll-sitemap génère par défaut,
+# d'où la ligne Sitemap à la fin.
+
+# OpenAI
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+# Anthropic
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+# Google (Gemini ; sans effet sur Google Search)
+User-agent: Google-Extended
+# Mistral
+User-agent: MistralAI-Training
+User-agent: MistralAI-Index
+User-agent: MistralAI-User
+# Apple (Apple Intelligence)
+User-agent: Applebot-Extended
+# Meta
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: FacebookBot
+# Perplexity
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+# Autres
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: cohere-ai
+Disallow: /
+
+Sitemap: https://colasbd.github.io/sitemap.xml

@@ -9,6 +9,7 @@ header:
   #overlay_filter: rgba(1, 17, 47, 0.2)
 
 author_profile: no
+avis_ia: false # articles de recherche : pas d'avis sur l'IA (voir _layouts/myBasicLayout.html)
 permalink: /publications/
 title: "Articles"
 ---

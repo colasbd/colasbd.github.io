@@ -9,8 +9,19 @@
 # Valeurs possibles : "classique" (thème Minimal Mistakes) ou "moderne" (design maison).
 ---
 {%- assign design = page.design | default: site.design | default: "classique" -%}
+{%- comment -%}
+Avis sur l'intelligence artificielle (_includes/avis-ia.html) : ajouté automatiquement
+en haut de toute page qui contient un lien vers un PDF. Pour décider page par page,
+mettre `avis_ia: true` ou `avis_ia: false` dans le front matter.
+{%- endcomment -%}
+{%- assign avis_ia = page.avis_ia -%}
+{%- if avis_ia == nil and content contains ".pdf" -%}{%- assign avis_ia = true -%}{%- endif -%}
+{%- capture contenu -%}
+{%- if avis_ia -%}{%- include avis-ia.html -%}{%- endif -%}
+{{ content }}
+{%- endcapture -%}
 {%- if design == "moderne" -%}
-{%- include design/moderne.html content=content -%}
+{%- include design/moderne.html content=contenu -%}
 {%- else -%}
-{%- include design/classique.html content=content -%}
+{%- include design/classique.html content=contenu -%}
 {%- endif -%}

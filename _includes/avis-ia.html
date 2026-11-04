@@ -1,0 +1,15 @@
+{%- comment -%}
+Avis affiché en haut des pages qui proposent des PDF (voir _layouts/myBasicLayout.html).
+La règle elle-même est dans avis-ia-regle.html : elle est reprise telle quelle dans les
+« conditions d'utilisation » des cahiers, il suffit donc de la modifier à cet endroit.
+`notice--warning` vient du thème Minimal Mistakes et donne son style à l'avis dans le
+design classique ; dans le design moderne, c'est `.avis-ia` (assets/css/moderne.css).
+{%- endcomment -%}
+<aside class="avis-ia notice--warning">
+  <p><strong>Avertissement</strong></p>
+  <p>{% include avis-ia-regle.html %} 
+    Ils sont le fruit d’un long travail, et sont mis gratuitement à disposition 
+    pour apprendre et pour enseigner&nbsp;; 
+    ils ne sont pas destinés à servir de base à d’autres projets, 
+    que ce soit pour constituer une base de données, pour générer de nouveaux exercices ou documents, ou pour entraîner un modèle.</p>
+</aside>

@@ -39,6 +39,7 @@ Voici les conditions d'utilisation et de partage de ce document :
 - Les sources sont mises à disposition pour que les professeurs puissent adapter le cahier à leur classe, par exemple en enlevant un exercice, etc. En revanche, les sources ne sont pas mises à disposition pour servir de base à un autre projet.
 - Le contenu du cahier de calcul est modifiable et réutilisable pour des usages spécifiques à l'exclusion de tout usage commercial.
 - Les noms des participants au projet sont indiqués en page 2 du cahier de calcul.
+- {% include avis-ia-regle.html %}
 
 ---
 
